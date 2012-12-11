@@ -1,0 +1,764 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Canvas v2.1.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-05-26 20:57+0000\n"
+"Last-Translator: Filadelfia <post@filadelfiavennesla.no>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Norwegian-Nynorsk\n"
+"X-Poedit-Country: NORWAY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:19
+#@ woothemes
+msgid "Error 404 - Page not found!"
+msgstr "Feilkode 404 - Siden finnes ikke!"
+
+#: 404.php:22
+#@ woothemes
+msgid "The page you trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
+msgstr "Siden du forsøker å nå eksisterer ikke, eller har blitt flyttet. Vennligst bruk menyene eller søkeboksen for å finne det du leter etter."
+
+#: archive.php:17
+#: archive.php:20
+#: archive.php:23
+#: archive.php:26
+#@ woothemes
+msgid "Archive"
+msgstr "Arkiv"
+
+#: archive.php:29
+#@ woothemes
+msgid "Archive by Author"
+msgstr "Arkiv etter Forfatter"
+
+#: archive.php:32
+#@ woothemes
+msgid "Tag Archives:"
+msgstr "Nøkkelord arkiver:"
+
+#: archive.php:51
+#: index.php:37
+#: search.php:28
+#: single.php:26
+#: template-blog.php:34
+#@ woothemes
+msgid "by"
+msgstr "av"
+
+#: archive.php:52
+#: index.php:38
+#: search.php:29
+#: single.php:27
+#: template-blog.php:35
+#@ woothemes
+msgid "on"
+msgstr "på"
+
+#: archive.php:53
+#: index.php:39
+#: search.php:30
+#: single.php:28
+#: template-blog.php:36
+#@ woothemes
+msgid "in"
+msgstr "i"
+
+#: archive.php:68
+#: index.php:53
+#: page.php:41
+#: search.php:45
+#: single.php:52
+#: template-biz.php:45
+#: template-blog.php:50
+#: template-fullwidth.php:39
+#: template-magazine.php:92
+#@ woothemes
+msgid "Sorry, no posts matched your criteria."
+msgstr "Beklager, ingen innlegg passet dine kriterier."
+
+#: comments.php:9
+#@ woothemes
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dette innlegget er passordbeskyttet. Skriv inn passordet for å se kommentarer."
+
+#: comments.php:23
+#@ woothemes
+msgid "No Responses"
+msgstr "Ingen svar"
+
+#: comments.php:23
+#@ woothemes
+msgid "One Response"
+msgstr "Ett svar"
+
+#: comments.php:23
+#@ woothemes
+msgid "% Responses"
+msgstr "% Svar"
+
+#: comments.php:23
+#@ woothemes
+msgid "to"
+msgstr "til"
+
+#: comments.php:40
+#@ woothemes
+msgid "Trackbacks/Pingbacks"
+msgstr "Tilbakesporinger / Pingbacks"
+
+#: comments.php:52
+#@ woothemes
+msgid "No comments yet."
+msgstr "Ingen kommentarer enda."
+
+#: comments.php:56
+#@ woothemes
+msgid "Comments are closed."
+msgstr "Kommentarer er stengt."
+
+#: comments.php:68
+#@ woothemes
+msgid "Leave a Reply"
+msgstr "Legg igjen en kommentar"
+
+#: comments.php:68
+#, php-format
+#@ woothemes
+msgid "Leave a Reply to %s"
+msgstr "Legg igjen et svar til %s"
+
+#: comments.php:76
+#@ woothemes
+msgid "You must be"
+msgstr "Du må være"
+
+#: comments.php:76
+#@ woothemes
+msgid "logged in"
+msgstr "logget inn"
+
+#: comments.php:76
+#@ woothemes
+msgid "to post a comment."
+msgstr "for å legge inn en kommentar."
+
+#: comments.php:84
+#@ woothemes
+msgid "Logged in as"
+msgstr "Logget inn som"
+
+#: comments.php:84
+#@ woothemes
+msgid "Log out of this account"
+msgstr "Logg ut av denne kontoen"
+
+#: comments.php:84
+#@ woothemes
+msgid "Logout"
+msgstr "Logg ut"
+
+#: comments.php:90
+#: template-contact.php:159
+#@ woothemes
+msgid "Name"
+msgstr "Navn"
+
+#: comments.php:95
+#@ woothemes
+msgid "Mail (will not be published)"
+msgstr "E-post (vil ikke bli publisert)"
+
+#: comments.php:95
+#@ woothemes
+msgid "Required"
+msgstr "Påkrevd"
+
+#: comments.php:100
+#@ woothemes
+msgid "Website"
+msgstr "Nettsted"
+
+#: comments.php:105
+#@ woothemes
+msgid "You can use these tags"
+msgstr "Du kan bruke disse kodene"
+
+#: comments.php:109
+#@ woothemes
+msgid "Submit Comment"
+msgstr "Send kommentar"
+
+#: footer.php:40
+#@ woothemes
+msgid "All Rights Reserved."
+msgstr "Alle rettigheter forbeholdt."
+
+#: footer.php:51
+#@ woothemes
+msgid "Powered by"
+msgstr "Drevet av"
+
+#: footer.php:51
+#@ woothemes
+msgid "Designed by"
+msgstr "Designet av"
+
+#: functions/admin-custom-nav.php:2134
+#: functions_bak/admin-custom-nav.php:1991
+#@ woothemes
+msgid "Woo - Custom Nav Menu"
+msgstr "Woo - Custom Nav Meny"
+
+#: functions/admin-custom-nav.php:2323
+#: functions_bak/admin-custom-nav.php:2180
+#@ woothemes
+msgid "Select Menu:"
+msgstr "Velg meny:"
+
+#: functions/admin-custom-nav.php:2349
+#: functions_bak/admin-custom-nav.php:2206
+#: includes/widgets/widget-woo-embed.php:98
+#: includes/widgets/widgets-woo-blogauthor.php:51
+#: includes/widgets/widgets-woo-search.php:33
+#: includes/widgets/widgets-woo-twitter.php:40
+#@ woothemes
+msgid "Title:"
+msgstr "Tittel:"
+
+#: functions/admin-custom-nav.php:2358
+#: functions_bak/admin-custom-nav.php:2215
+#@ woothemes
+msgid "Advanced Options:"
+msgstr "Avanserte innstillinger:"
+
+#: functions/admin-custom-nav.php:2378
+#: functions_bak/admin-custom-nav.php:2235
+#@ woothemes
+msgid "Wrap in container DIV:"
+msgstr "Pakk inn i kontainer DIV:"
+
+#: functions/admin-custom-nav.php:2391
+#: functions_bak/admin-custom-nav.php:2248
+#@ woothemes
+msgid "Wrap in container UL:"
+msgstr "Pakk inn i kontainer UL:"
+
+#: functions/admin-custom-nav.php:2406
+#: functions_bak/admin-custom-nav.php:2263
+#@ woothemes
+msgid "Show Top Level Descriptions:"
+msgstr "Vis topp-nivå beskrivelser:"
+
+#: functions/admin-custom-nav.php:2426
+#: functions_bak/admin-custom-nav.php:2283
+#@ woothemes
+msgid "The Custom Menu has not been configured correctly.  Please check your theme settings before adding this widget."
+msgstr "Den egendefinerte menyen er ikke riktig konfigurert. Vennligst sjekk tema-innstillingene før du legger til denne widgeten."
+
+#: functions/admin-functions.php:1192
+#: functions_bak/admin-functions.php:1099
+#@ woothemes
+msgid "Search Results"
+msgstr "Søkeresultater"
+
+#: functions/admin-functions.php:1193
+#: functions_bak/admin-functions.php:1100
+#@ woothemes
+msgid "Author Archives"
+msgstr "Forfatter arkiver"
+
+#: functions/admin-functions.php:1196
+#: functions_bak/admin-functions.php:1103
+#@ woothemes
+msgid "Category Archive"
+msgstr "Kategori arkiv"
+
+#: functions/admin-functions.php:1197
+#: functions_bak/admin-functions.php:1104
+#@ woothemes
+msgid "Monthly Archive"
+msgstr "Månedlig arkiv"
+
+#: functions/admin-functions.php:1198
+#: functions_bak/admin-functions.php:1105
+#@ woothemes
+msgid "Yearly Archive"
+msgstr "Årlig arkiv"
+
+#: functions/admin-functions.php:1199
+#: functions_bak/admin-functions.php:1106
+#@ woothemes
+msgid "Tag Archive"
+msgstr "Nøkkelord arkiv"
+
+#: includes/theme-actions.php:718
+#@ woothemes
+msgid "Home"
+msgstr "Forside"
+
+#: includes/theme-actions.php:727
+#@ woothemes
+msgid "Subscribe by Email"
+msgstr "Abonner via e-post"
+
+#: includes/theme-actions.php:729
+#@ woothemes
+msgid "Subscribe to RSS"
+msgstr "Abonner på RSS"
+
+#: includes/theme-actions.php:748
+#@ woothemes
+msgid "Read full story"
+msgstr "Les hele artikkelen"
+
+#: includes/theme-actions.php:749
+#@ woothemes
+msgid "Comments { 0 }"
+msgstr "Kommentarer { 0 }"
+
+#: includes/theme-actions.php:749
+#@ woothemes
+msgid "Comments { 1 }"
+msgstr "Kommentarer { 1 }"
+
+#: includes/theme-actions.php:749
+#@ woothemes
+msgid "Comments { % }"
+msgstr "Kommentarer { % }"
+
+#: includes/theme-comments.php:19
+#@ woothemes
+msgid "at"
+msgstr "på"
+
+#: includes/theme-comments.php:20
+#@ woothemes
+msgid "Direct link to this comment"
+msgstr "Direkte link til denne kommentaren"
+
+#: includes/theme-comments.php:30
+#@ woothemes
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar venter på moderering."
+
+#: includes/theme-functions.php:31
+#@ woothemes
+msgid "&laquo; Newer Entries "
+msgstr "&laquo; Nyere innlegg"
+
+#: includes/theme-functions.php:32
+#@ woothemes
+msgid " Older Entries &raquo;"
+msgstr "Eldre innlegg &raquo;"
+
+#: includes/theme-functions.php:117
+#@ woothemes
+msgid "on "
+msgstr "den"
+
+#: includes/theme-plugins.php:63
+msgid "Settings"
+msgstr ""
+
+#: includes/theme-plugins.php:71
+msgid "You cannot edit the Yoast Breadcrumbs options."
+msgstr ""
+
+#: includes/widgets/widget-woo-embed.php:11
+#@ woothemes
+msgid "Woo - Embed/Video"
+msgstr "Woo - Legg til / Video"
+
+#: includes/widgets/widget-woo-embed.php:102
+#@ woothemes
+msgid "Category:"
+msgstr "Kategori:"
+
+#: includes/widgets/widget-woo-embed.php:115
+#@ woothemes
+msgid "Tag:"
+msgstr "Nøkkelord:"
+
+#: includes/widgets/widget-woo-embed.php:120
+#: includes/widgets/widgets-woo-flickr.php:74
+#@ woothemes
+msgid "Size:"
+msgstr "Størrelse:"
+
+#: includes/widgets/widget-woo-embed.php:127
+#@ woothemes
+msgid "Limit (optional):"
+msgstr "Grense (valgfritt):"
+
+#: includes/widgets/widget-woo-embed.php:132
+#@ woothemes
+msgid "Show Video Post Title:"
+msgstr "Vis tittel på videoinnlegg:"
+
+#: includes/widgets/widget-woo-tabs.php:10
+#@ woothemes
+msgid "Woo - Tabs"
+msgstr "Woo - Faner"
+
+#: includes/widgets/widget-woo-tabs.php:24
+#@ woothemes
+msgid "Popular"
+msgstr "Populære"
+
+#: includes/widgets/widget-woo-tabs.php:25
+#: includes/widgets/widgets-woo-flickr.php:69
+#@ woothemes
+msgid "Latest"
+msgstr "Siste"
+
+#: includes/widgets/widget-woo-tabs.php:26
+#: template-sitemap.php:47
+#@ woothemes
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: includes/widgets/widget-woo-tabs.php:27
+#@ woothemes
+msgid "Tags"
+msgstr "Nøkkelord"
+
+#: includes/widgets/widget-woo-tabs.php:67
+#@ woothemes
+msgid "Number of posts:"
+msgstr "Antall innlegg:"
+
+#: includes/widgets/widget-woo-tabs.php:72
+#@ woothemes
+msgid "Thumbnail Size (0=disable):"
+msgstr "Thumbnail størrelse (0 = deaktiver):"
+
+#: includes/widgets/widgets-woo-adspace.php:10
+#@ woothemes
+msgid "Woo - Adspace Widget"
+msgstr "Woo - Annonse Widget"
+
+#: includes/widgets/widgets-woo-adspace.php:53
+#@ woothemes
+msgid "Title (optional):"
+msgstr "Tittel (valgfritt):"
+
+#: includes/widgets/widgets-woo-adspace.php:57
+#@ woothemes
+msgid "Ad Code:"
+msgstr "Annonse kode:"
+
+#: includes/widgets/widgets-woo-adspace.php:62
+#@ woothemes
+msgid "Image Url:"
+msgstr "Bilde Url:"
+
+#: includes/widgets/widgets-woo-adspace.php:66
+#@ woothemes
+msgid "Link URL:"
+msgstr "Link URL:"
+
+#: includes/widgets/widgets-woo-adspace.php:70
+#@ woothemes
+msgid "Alt text:"
+msgstr "Alternativ tekst:"
+
+#: includes/widgets/widgets-woo-blogauthor.php:9
+#@ woothemes
+msgid "Woo - Blog Author Info"
+msgstr "Woo - Blogg forfatter informasjon"
+
+#: includes/widgets/widgets-woo-blogauthor.php:55
+#@ woothemes
+msgid "Bio:"
+msgstr "Om:"
+
+#: includes/widgets/widgets-woo-blogauthor.php:59
+#@ woothemes
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-post:"
+
+#: includes/widgets/widgets-woo-blogauthor.php:63
+#@ woothemes
+msgid "Gravatar Size:"
+msgstr "Gravatar størrelse:"
+
+#: includes/widgets/widgets-woo-blogauthor.php:67
+#@ woothemes
+msgid "Gravatar Alignment:"
+msgstr "Gravatar justering:"
+
+#: includes/widgets/widgets-woo-blogauthor.php:69
+#@ woothemes
+msgid "Left"
+msgstr "Venstre"
+
+#: includes/widgets/widgets-woo-blogauthor.php:70
+#@ woothemes
+msgid "Right"
+msgstr "Høyre"
+
+#: includes/widgets/widgets-woo-blogauthor.php:74
+#@ woothemes
+msgid "Read More Text (optional):"
+msgstr "Les mer tekst (valgfritt):"
+
+#: includes/widgets/widgets-woo-blogauthor.php:78
+#@ woothemes
+msgid "Read More URL (optional):"
+msgstr "Les mer URL (valgfritt):"
+
+#: includes/widgets/widgets-woo-blogauthor.php:82
+#@ woothemes
+msgid "Visible Pages:"
+msgstr "Synlige sider:"
+
+#: includes/widgets/widgets-woo-blogauthor.php:84
+#@ woothemes
+msgid "All"
+msgstr "Alle"
+
+#: includes/widgets/widgets-woo-blogauthor.php:85
+#@ woothemes
+msgid "Home only"
+msgstr "Kun forside"
+
+#: includes/widgets/widgets-woo-blogauthor.php:86
+#@ woothemes
+msgid "Single only"
+msgstr "Kun enslige"
+
+#: includes/widgets/widgets-woo-flickr.php:10
+#@ woothemes
+msgid "Woo - Flickr"
+msgstr "Woo - Flickr"
+
+#: includes/widgets/widgets-woo-flickr.php:23
+#@ woothemes
+msgid "Photos on <span>flick<span>r</span></span>"
+msgstr "Bilder på <span>flick<span>r</span></span>"
+
+#: includes/widgets/widgets-woo-flickr.php:48
+#@ woothemes
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+
+#: includes/widgets/widgets-woo-flickr.php:52
+#@ woothemes
+msgid "Number:"
+msgstr "Nummer:"
+
+#: includes/widgets/widgets-woo-flickr.php:60
+#@ woothemes
+msgid "Type:"
+msgstr "Type:"
+
+#: includes/widgets/widgets-woo-flickr.php:62
+#@ woothemes
+msgid "User"
+msgstr "Bruker"
+
+#: includes/widgets/widgets-woo-flickr.php:63
+#@ woothemes
+msgid "Group"
+msgstr "Gruppe"
+
+#: includes/widgets/widgets-woo-flickr.php:67
+#@ woothemes
+msgid "Sorting:"
+msgstr "Sortering:"
+
+#: includes/widgets/widgets-woo-flickr.php:70
+#@ woothemes
+msgid "Random"
+msgstr "Tilfeldig"
+
+#: includes/widgets/widgets-woo-flickr.php:76
+#@ woothemes
+msgid "Square"
+msgstr "Firkant"
+
+#: includes/widgets/widgets-woo-flickr.php:77
+#@ woothemes
+msgid "Medium"
+msgstr "Medium"
+
+#: includes/widgets/widgets-woo-flickr.php:78
+#@ woothemes
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: includes/widgets/widgets-woo-search.php:9
+#@ woothemes
+msgid "Woo - Search"
+msgstr "Woo - Søk"
+
+#: includes/widgets/widgets-woo-twitter.php:9
+#@ woothemes
+msgid "Woo - Twitter Stream"
+msgstr "Woo - Twitter strøm"
+
+#: includes/widgets/widgets-woo-twitter.php:44
+#@ woothemes
+msgid "Username:"
+msgstr "Brukernavn:"
+
+#: includes/widgets/widgets-woo-twitter.php:48
+#@ woothemes
+msgid "Limit:"
+msgstr "Grense:"
+
+#: page.php:28
+#: single.php:29
+#: template-biz.php:36
+#@ woothemes
+msgid "{ Edit }"
+msgstr "{ Endre }"
+
+#: search-form.php:3
+#@ woothemes
+msgid "Search..."
+msgstr "Søk ..."
+
+#: search-form.php:4
+#@ woothemes
+msgid "Search"
+msgstr "Søk"
+
+#: search.php:15
+#@ woothemes
+msgid "Search results"
+msgstr "Søkeresultater"
+
+#: template-archives.php:28
+#@ woothemes
+msgid "The Last 30 Posts"
+msgstr "De siste 30 innlegg"
+
+#: template-archives.php:34
+#@ woothemes
+msgid "comments"
+msgstr "kommentarer"
+
+#: template-archives.php:38
+#: template-sitemap.php:33
+#@ woothemes
+msgid "Categories"
+msgstr "Kategorier"
+
+#: template-archives.php:44
+#@ woothemes
+msgid "Monthly Archives"
+msgstr "Månedlige arkiver"
+
+#: template-contact.php:23
+#@ woothemes
+msgid "You forgot to enter your name."
+msgstr "Du glemte å skrive navnet ditt."
+
+#: template-contact.php:31
+#@ woothemes
+msgid "You forgot to enter your email address."
+msgstr "Du glemte å skrive inn din e-postadresse."
+
+#: template-contact.php:34
+#@ woothemes
+msgid "You entered an invalid email address."
+msgstr "Du har lagt inn en ugyldig e-postadresse."
+
+#: template-contact.php:42
+#@ woothemes
+msgid "You forgot to enter your comments."
+msgstr "Du glemte å skrive inn dine kommentarer."
+
+#: template-contact.php:56
+#@ woothemes
+msgid "Contact Form Submission from "
+msgstr "Kontaktskjema-innlevering fra"
+
+#: template-contact.php:59
+#: template-contact.php:65
+#@ woothemes
+msgid "From: "
+msgstr "Fra:"
+
+#: template-contact.php:59
+#@ woothemes
+msgid "Reply-To: "
+msgstr "Svar til:"
+
+#: template-contact.php:64
+#@ woothemes
+msgid "You emailed "
+msgstr "Du skrev"
+
+#: template-contact.php:87
+#@ woothemes
+msgid "You forgot to enter your"
+msgstr "Du glemte å angi din"
+
+#: template-contact.php:94
+#@ woothemes
+msgid "You entered an invalid"
+msgstr "Du har lagt inn et ugyldig"
+
+#: template-contact.php:104
+#@ woothemes
+msgid "<strong>Thanks!</strong> Your email was successfully sent."
+msgstr "<strong>Takk!</strong> Din e-post ble sendt."
+
+#: template-contact.php:136
+#@ woothemes
+msgid "Your email was successfully sent."
+msgstr "Din e-post ble sendt."
+
+#: template-contact.php:148
+#@ woothemes
+msgid "There was an error submitting the form."
+msgstr "Det oppstod en feil under innsending av skjemaet."
+
+#: template-contact.php:152
+#@ woothemes
+msgid "E-mail has not been setup properly. Please add your contact e-mail!"
+msgstr "E-post er ikke riktig satt opp. Vennligst legg inn din kontakt e-post!"
+
+#: template-contact.php:166
+#@ woothemes
+msgid "Email"
+msgstr "E-post"
+
+#: template-contact.php:173
+#@ woothemes
+msgid "Message"
+msgstr "Melding"
+
+#: template-contact.php:179
+#@ woothemes
+msgid "Send a copy of this email to yourself"
+msgstr "Send en kopi av denne e-posten til deg selv"
+
+#: template-contact.php:180
+#@ woothemes
+msgid "If you want to submit this form, do not enter anything in this field"
+msgstr "Hvis du vil sende dette skjemaet, ikke skriv noe i dette feltet"
+
+#: template-contact.php:181
+#@ woothemes
+msgid "Submit"
+msgstr "Send"
+
+#: template-sitemap.php:28
+#@ woothemes
+msgid "Pages"
+msgstr "Sider"
+

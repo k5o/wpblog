@@ -1,0 +1,775 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Canvas\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-05 14:45+0100\n"
+"PO-Revision-Date: 2010-12-05 14:45+0100\n"
+"Last-Translator: WooThemes <info@woothemes.com>\n"
+"Language-Team: WooThemes\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:21
+msgid "Error 404 - Page not found!"
+msgstr ""
+
+#: 404.php:24
+msgid "The page you are trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
+msgstr ""
+
+#: archive.php:19
+#: archive.php:22
+#: archive.php:25
+#: archive.php:28
+msgid "Archive"
+msgstr ""
+
+#: archive.php:19
+msgid "RSS feed for this section"
+msgstr ""
+
+#: archive.php:31
+msgid "Archive by Author"
+msgstr ""
+
+#: archive.php:34
+msgid "Tag Archives:"
+msgstr ""
+
+#: archive.php:58
+#: index.php:43
+#: taxonomy-tumblog.php:55
+msgid "Continue Reading &rarr;"
+msgstr ""
+
+#: archive.php:70
+#: index.php:54
+#: page.php:43
+#: search.php:51
+#: single.php:52
+#: taxonomy-tumblog.php:67
+#: template-biz.php:45
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: comments.php:9
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:23
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:23
+msgid "One Response"
+msgstr ""
+
+#: comments.php:23
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:23
+msgid "to"
+msgstr ""
+
+#: comments.php:40
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:52
+msgid "No comments yet."
+msgstr ""
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:68
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:68
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:76
+msgid "You must be"
+msgstr ""
+
+#: comments.php:76
+msgid "logged in"
+msgstr ""
+
+#: comments.php:76
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:84
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:84
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:84
+msgid "Logout"
+msgstr ""
+
+#: comments.php:90
+msgid "Name"
+msgstr ""
+
+#: comments.php:95
+msgid "Mail (will not be published)"
+msgstr ""
+
+#: comments.php:95
+msgid "Required"
+msgstr ""
+
+#: comments.php:100
+msgid "Website"
+msgstr ""
+
+#: comments.php:105
+msgid "You can use these tags"
+msgstr ""
+
+#: comments.php:109
+msgid "Submit Comment"
+msgstr ""
+
+#: footer.php:41
+msgid "All Rights Reserved."
+msgstr ""
+
+#: footer.php:50
+msgid "Powered by"
+msgstr ""
+
+#: footer.php:50
+msgid "Designed by"
+msgstr ""
+
+#: page.php:27
+#: single.php:36
+msgid "Pages:"
+msgstr ""
+
+#: page.php:30
+#: template-biz.php:36
+msgid "{ Edit }"
+msgstr ""
+
+#: search-form.php:3
+msgid "Search..."
+msgstr ""
+
+#: search-form.php:4
+msgid "Go"
+msgstr ""
+
+#: search.php:17
+msgid "Search results for"
+msgstr ""
+
+#: taxonomy-tumblog.php:33
+msgid " Archives:"
+msgstr ""
+
+#: template-archives.php:29
+msgid "The Last 30 Posts"
+msgstr ""
+
+#: template-archives.php:35
+msgid "comments"
+msgstr ""
+
+#: template-archives.php:39
+msgid "Categories"
+msgstr ""
+
+#: template-archives.php:45
+msgid "Monthly Archives"
+msgstr ""
+
+#: template-contact.php:23
+msgid "You forgot to enter your name."
+msgstr ""
+
+#: template-contact.php:31
+msgid "You forgot to enter your email address."
+msgstr ""
+
+#: template-contact.php:34
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: template-contact.php:42
+msgid "You forgot to enter your comments."
+msgstr ""
+
+#: template-contact.php:56
+msgid "Contact Form Submission from "
+msgstr ""
+
+#: template-contact.php:59
+#: template-contact.php:65
+msgid "From: "
+msgstr ""
+
+#: template-contact.php:59
+msgid "Reply-To: "
+msgstr ""
+
+#: template-contact.php:64
+msgid "You emailed "
+msgstr ""
+
+#: template-contact.php:87
+msgid "You forgot to enter your"
+msgstr ""
+
+#: template-contact.php:94
+msgid "You entered an invalid"
+msgstr ""
+
+#: template-contact.php:104
+msgid "<strong>Thanks!</strong> Your email was successfully sent."
+msgstr ""
+
+#: template-contact.php:138
+msgid "Your email was successfully sent."
+msgstr ""
+
+#: template-contact.php:150
+msgid "There was an error submitting the form."
+msgstr ""
+
+#: template-contact.php:154
+msgid "E-mail has not been setup properly. Please add your contact e-mail!"
+msgstr ""
+
+#: template-contact.php:168
+msgid "Email"
+msgstr ""
+
+#: template-contact.php:175
+msgid "Message"
+msgstr ""
+
+#: template-contact.php:181
+msgid "Send a copy of this email to yourself"
+msgstr ""
+
+#: template-contact.php:182
+msgid "If you want to submit this form, do not enter anything in this field"
+msgstr ""
+
+#: template-contact.php:183
+msgid "Submit"
+msgstr ""
+
+#: template-sitemap.php:29
+msgid "Pages"
+msgstr ""
+
+#: template-sitemap.php:39
+msgid "Posts per category"
+msgstr ""
+
+#: template-sitemap.php:48
+msgid "Comments"
+msgstr ""
+
+#: functions/admin-custom-nav.php:2146
+msgid "Woo - Custom Nav Menu"
+msgstr ""
+
+#: functions/admin-custom-nav.php:2335
+msgid "Select Menu:"
+msgstr ""
+
+#: functions/admin-custom-nav.php:2361
+msgid "Title:"
+msgstr ""
+
+#: functions/admin-custom-nav.php:2370
+msgid "Advanced Options:"
+msgstr ""
+
+#: functions/admin-custom-nav.php:2390
+msgid "Wrap in container DIV:"
+msgstr ""
+
+#: functions/admin-custom-nav.php:2403
+msgid "Wrap in container UL:"
+msgstr ""
+
+#: functions/admin-custom-nav.php:2418
+msgid "Show Top Level Descriptions:"
+msgstr ""
+
+#: functions/admin-custom-nav.php:2438
+msgid "The Custom Menu has not been configured correctly.  Please check your theme settings before adding this widget."
+msgstr ""
+
+#: functions/admin-express-functions.php:194
+msgid "You are not allowed to upload files to this site."
+msgstr ""
+
+#: functions/admin-express-functions.php:220
+#, php-format
+msgid "Could not write file %1$s (%2$s)"
+msgstr ""
+
+#: functions/admin-functions.php:1411
+msgid "Search Results"
+msgstr ""
+
+#: functions/admin-functions.php:1412
+msgid "Author Archives"
+msgstr ""
+
+#: functions/admin-functions.php:1415
+msgid "Category Archive"
+msgstr ""
+
+#: functions/admin-functions.php:1416
+msgid " Archive"
+msgstr ""
+
+#: functions/admin-functions.php:1417
+msgid "Daily Archive"
+msgstr ""
+
+#: functions/admin-functions.php:1418
+msgid "Monthly Archive"
+msgstr ""
+
+#: functions/admin-functions.php:1419
+msgid "Yearly Archive"
+msgstr ""
+
+#: functions/admin-functions.php:1420
+msgid "Tag Archive"
+msgstr ""
+
+#: functions/admin-medialibrary-uploader.php:48
+msgid "WooFramework Internal Container"
+msgstr ""
+
+#: functions/admin-medialibrary-uploader.php:176
+msgid "Upload"
+msgstr ""
+
+#: functions/admin-medialibrary-uploader.php:402
+msgid "Gallery"
+msgstr ""
+
+#: functions/admin-medialibrary-uploader.php:402
+msgid "Previously Uploaded"
+msgstr ""
+
+#: includes/theme-actions.php:783
+msgid "Home"
+msgstr ""
+
+#: includes/theme-actions.php:792
+msgid "Subscribe by Email"
+msgstr ""
+
+#: includes/theme-actions.php:794
+msgid "Subscribe to RSS"
+msgstr ""
+
+#: includes/theme-actions.php:814
+msgid "Read full story"
+msgstr ""
+
+#: includes/theme-actions.php:815
+msgid "Comments { 0 }"
+msgstr ""
+
+#: includes/theme-actions.php:815
+msgid "Comments { 1 }"
+msgstr ""
+
+#: includes/theme-actions.php:815
+msgid "Comments { % }"
+msgstr ""
+
+#: includes/theme-actions.php:943
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: includes/theme-comments.php:20
+msgid "at"
+msgstr ""
+
+#: includes/theme-comments.php:21
+msgid "Direct link to this comment"
+msgstr ""
+
+#: includes/theme-comments.php:22
+msgid "Edit"
+msgstr ""
+
+#: includes/theme-comments.php:31
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/theme-functions.php:35
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: includes/theme-functions.php:36
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: includes/theme-functions.php:128
+msgid "on "
+msgstr ""
+
+#: includes/theme-functions.php:147
+msgid "by"
+msgstr ""
+
+#: includes/theme-functions.php:148
+msgid "on"
+msgstr ""
+
+#: includes/theme-functions.php:149
+msgid "in"
+msgstr ""
+
+#: includes/theme-functions.php:168
+msgid "Primary Menu"
+msgstr ""
+
+#: includes/theme-functions.php:182
+msgid "Add New Slide"
+msgstr ""
+
+#: includes/theme-functions.php:183
+msgid "Edit Slide"
+msgstr ""
+
+#: includes/theme-functions.php:184
+msgid "New Slide"
+msgstr ""
+
+#: includes/theme-functions.php:185
+msgid "View Slide"
+msgstr ""
+
+#: includes/theme-functions.php:186
+msgid "Search Slides"
+msgstr ""
+
+#: includes/theme-functions.php:187
+msgid "No slides found"
+msgstr ""
+
+#: includes/theme-functions.php:188
+msgid "No slides found in Trash"
+msgstr ""
+
+#: includes/tumblog/theme-custom-post-types.php:28
+msgid "Tumblogs"
+msgstr ""
+
+#: includes/tumblog/theme-custom-post-types.php:29
+msgid "Tumblog"
+msgstr ""
+
+#: includes/tumblog/theme-custom-post-types.php:30
+msgid "Search Tumblogs"
+msgstr ""
+
+#: includes/tumblog/theme-custom-post-types.php:31
+msgid "Popular Tumblogs"
+msgstr ""
+
+#: includes/tumblog/theme-custom-post-types.php:32
+msgid "All Tumblogs"
+msgstr ""
+
+#: includes/tumblog/theme-custom-post-types.php:33
+msgid "Parent Tumblog"
+msgstr ""
+
+#: includes/tumblog/theme-custom-post-types.php:34
+msgid "Parent Tumblog:"
+msgstr ""
+
+#: includes/tumblog/theme-custom-post-types.php:35
+msgid "Edit Tumblog"
+msgstr ""
+
+#: includes/tumblog/theme-custom-post-types.php:36
+msgid "Update Tumblog"
+msgstr ""
+
+#: includes/tumblog/theme-custom-post-types.php:37
+msgid "Add New Tumblog"
+msgstr ""
+
+#: includes/tumblog/theme-custom-post-types.php:38
+msgid "New Tumblog Name"
+msgstr ""
+
+#: includes/tumblog/theme-custom-post-types.php:49
+msgid "Articles"
+msgstr ""
+
+#: includes/tumblog/theme-custom-post-types.php:50
+msgid "Images"
+msgstr ""
+
+#: includes/tumblog/theme-custom-post-types.php:51
+msgid "Audio"
+msgstr ""
+
+#: includes/tumblog/theme-custom-post-types.php:52
+msgid "Video"
+msgstr ""
+
+#: includes/tumblog/theme-custom-post-types.php:53
+msgid "Quotes"
+msgstr ""
+
+#: includes/tumblog/theme-custom-post-types.php:54
+msgid "Links"
+msgstr ""
+
+#: includes/tumblog/theme-custom-post-types.php:131
+msgid "View all Tumblogs"
+msgstr ""
+
+#: includes/tumblog/theme-custom-post-types.php:144
+msgid "Filter"
+msgstr ""
+
+#: includes/tumblog/theme-tumblog.php:508
+msgid "Play Audio"
+msgstr ""
+
+#: includes/tumblog/theme-tumblog.php:515
+msgid " ~ "
+msgstr ""
+
+#: includes/widgets/widget-woo-embed.php:11
+msgid "Woo - Embed/Video"
+msgstr ""
+
+#: includes/widgets/widget-woo-embed.php:100
+msgid "Category:"
+msgstr ""
+
+#: includes/widgets/widget-woo-embed.php:113
+msgid "Tag:"
+msgstr ""
+
+#: includes/widgets/widget-woo-embed.php:118
+#: includes/widgets/widgets-woo-flickr.php:74
+msgid "Size:"
+msgstr ""
+
+#: includes/widgets/widget-woo-embed.php:125
+msgid "Limit (optional):"
+msgstr ""
+
+#: includes/widgets/widget-woo-tabs.php:10
+msgid "Woo - Tabs"
+msgstr ""
+
+#: includes/widgets/widget-woo-tabs.php:29
+#: includes/widgets/widget-woo-tabs.php:34
+#: includes/widgets/widget-woo-tabs.php:113
+#: includes/widgets/widget-woo-tabs.php:123
+#: includes/widgets/widgets-woo-flickr.php:69
+msgid "Latest"
+msgstr ""
+
+#: includes/widgets/widget-woo-tabs.php:31
+#: includes/widgets/widget-woo-tabs.php:36
+#: includes/widgets/widget-woo-tabs.php:115
+#: includes/widgets/widget-woo-tabs.php:129
+msgid "Tags"
+msgstr ""
+
+#: includes/widgets/widget-woo-tabs.php:33
+#: includes/widgets/widget-woo-tabs.php:112
+#: includes/widgets/widget-woo-tabs.php:120
+msgid "Popular"
+msgstr ""
+
+#: includes/widgets/widget-woo-tabs.php:100
+msgid "Number of posts:"
+msgstr ""
+
+#: includes/widgets/widget-woo-tabs.php:105
+msgid "Thumbnail Size (0=disable):"
+msgstr ""
+
+#: includes/widgets/widget-woo-tabs.php:110
+msgid "First Visible Tab:"
+msgstr ""
+
+#: includes/widgets/widgets-woo-adspace.php:10
+msgid "Woo - Adspace Widget"
+msgstr ""
+
+#: includes/widgets/widgets-woo-adspace.php:53
+#: includes/widgets/widgets-woo-twitter.php:43
+msgid "Title (optional):"
+msgstr ""
+
+#: includes/widgets/widgets-woo-adspace.php:57
+msgid "Ad Code:"
+msgstr ""
+
+#: includes/widgets/widgets-woo-adspace.php:62
+msgid "Image Url:"
+msgstr ""
+
+#: includes/widgets/widgets-woo-adspace.php:66
+msgid "Link URL:"
+msgstr ""
+
+#: includes/widgets/widgets-woo-adspace.php:70
+msgid "Alt text:"
+msgstr ""
+
+#: includes/widgets/widgets-woo-blogauthor.php:9
+msgid "Woo - Blog Author Info"
+msgstr ""
+
+#: includes/widgets/widgets-woo-blogauthor.php:56
+msgid "Bio:"
+msgstr ""
+
+#: includes/widgets/widgets-woo-blogauthor.php:60
+msgid "<a href=\"http://www.gravatar.com/\">Gravatar</a> E-mail:"
+msgstr ""
+
+#: includes/widgets/widgets-woo-blogauthor.php:64
+msgid "Gravatar Size:"
+msgstr ""
+
+#: includes/widgets/widgets-woo-blogauthor.php:68
+msgid "Gravatar Alignment:"
+msgstr ""
+
+#: includes/widgets/widgets-woo-blogauthor.php:70
+msgid "Left"
+msgstr ""
+
+#: includes/widgets/widgets-woo-blogauthor.php:71
+msgid "Right"
+msgstr ""
+
+#: includes/widgets/widgets-woo-blogauthor.php:75
+msgid "Read More Text (optional):"
+msgstr ""
+
+#: includes/widgets/widgets-woo-blogauthor.php:79
+msgid "Read More URL (optional):"
+msgstr ""
+
+#: includes/widgets/widgets-woo-blogauthor.php:83
+msgid "Visible Pages:"
+msgstr ""
+
+#: includes/widgets/widgets-woo-blogauthor.php:85
+msgid "All"
+msgstr ""
+
+#: includes/widgets/widgets-woo-blogauthor.php:86
+msgid "Home only"
+msgstr ""
+
+#: includes/widgets/widgets-woo-blogauthor.php:87
+msgid "Single only"
+msgstr ""
+
+#: includes/widgets/widgets-woo-flickr.php:10
+msgid "Woo - Flickr"
+msgstr ""
+
+#: includes/widgets/widgets-woo-flickr.php:23
+msgid "Photos on <span>flick<span>r</span></span>"
+msgstr ""
+
+#: includes/widgets/widgets-woo-flickr.php:48
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr ""
+
+#: includes/widgets/widgets-woo-flickr.php:52
+msgid "Number:"
+msgstr ""
+
+#: includes/widgets/widgets-woo-flickr.php:60
+msgid "Type:"
+msgstr ""
+
+#: includes/widgets/widgets-woo-flickr.php:62
+msgid "User"
+msgstr ""
+
+#: includes/widgets/widgets-woo-flickr.php:63
+msgid "Group"
+msgstr ""
+
+#: includes/widgets/widgets-woo-flickr.php:67
+msgid "Sorting:"
+msgstr ""
+
+#: includes/widgets/widgets-woo-flickr.php:70
+msgid "Random"
+msgstr ""
+
+#: includes/widgets/widgets-woo-flickr.php:76
+msgid "Square"
+msgstr ""
+
+#: includes/widgets/widgets-woo-flickr.php:77
+msgid "Medium"
+msgstr ""
+
+#: includes/widgets/widgets-woo-flickr.php:78
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/widgets/widgets-woo-search.php:9
+msgid "Woo - Search"
+msgstr ""
+
+#: includes/widgets/widgets-woo-twitter.php:9
+msgid "Woo - Twitter Stream"
+msgstr ""
+
+#: includes/widgets/widgets-woo-twitter.php:24
+msgid "Follow"
+msgstr ""
+
+#: includes/widgets/widgets-woo-twitter.php:24
+msgid "on Twitter"
+msgstr ""
+
+#: includes/widgets/widgets-woo-twitter.php:47
+msgid "Username:"
+msgstr ""
+
+#: includes/widgets/widgets-woo-twitter.php:51
+msgid "Limit:"
+msgstr ""
+

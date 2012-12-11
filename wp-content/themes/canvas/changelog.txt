@@ -1,0 +1,307 @@
+*** Canvas Changelog ***
+
+2010.11.25 - version 3.2.4
+ * includes/theme-actions.php - added author box to author archive. changed add action for author box
+ * style.css - added .author #post-author 
+
+2010.11.22 - version 3.2.3
+ * style.css - added active hover for categories on .nav (line 141)
+
+2010.11.21 - version 3.2.2
+ * includes/theme-functions.php - excluded sticky posts from the WooTabs popular and latest queries
+
+2010.11.12 - version 3.2.1
+ * includes/theme-functions.php - fixed bug with saving custom field images
+
+2010.11.10 - version 3.2
+ * /functions/ - Framework update to 3.2.01
+ * includes/theme-options.php - updates to styling of options
+
+2010.11.08 - version 3.1.4
+ * includes/widgets/widget-woo-tabs.php - Updated widget again
+ * includes/theme-js.php - removed loading of wootabs.js in header
+ * includes/js/wootabs.js - removed file
+
+2010.11.08 - version 3.1.3
+ * includes/widgets/widget-woo-tabs.php - Added sort options to WooTabs
+
+2010.11.08 - version 3.1.2
+ * /functions/ - Framework update to 3.1.10
+ * includes/theme-options.php - added option to dynamically resize WP post thumbnails (Dynamic Images)
+
+2010.11.03 - version 3.1.1
+ * includes/theme-options.php - added excerpt/content select option in General Settings. Removed from Layout.
+ * includes/theme-actions.php -  modified post_more()
+ * archive.php, taxonomy-tumblog.php, template-blog.php, index.php - modified post content output
+ * search-form.php - updated search input (removed button)
+ * style.css - updated SEARCH FORM section
+ * images/ico-search.png - new search input button
+
+2010.11.03 - version 3.1
+ * style.css - made style chages to section 3.3 and 3.4 (post navigation and post author)
+ * includes/theme-actions.php - changed post nav, post author, theme styling output
+ * includes/theme-options.php - added options to style post author box
+ * includes/theme-functions.php - fixed post/page nav functions
+ * single.php - removed woo_postnav (added in theme-actions.php)
+
+2010.11.03 - version 3.0.8
+ * includes/theme-comments.php - made functions pluggable
+
+2010.11.02 - version 3.0.7
+ * includes/theme-options.php - added option to exclude sliders posts in magazine template from normal posts
+ * template-magazine.php - added option conditional (line 25)
+
+2010.10.29 - version 3.0.6
+ * /lang/canvas.po - updated lang file
+ * archive.php - added missing string
+
+2010.10.28 - version 3.0.5
+ * includes/theme-options.php - added option to remove post-more. Added Archive Header styling.
+ * includes/theme-actions.php - added Archive Header styling output. Added UNIT option (px/em) to all typography outputs. 
+
+2010.10.27 - version 3.0.4
+ * footer.php - fixed footer left/right output bug
+
+2010.10.27 - version 3.0.3
+ * TUMBLOG STRUCTURE OPTIMIZATION
+ * functions.php - changed path on tumblog includes to includes/tumblog/ folder
+ * includes/player.swf - moved to includes/tumblog/
+ * includes/stylish_slim.swf - moved to includes/tumblog/
+ * includes/swfobject.js.swf - moved to includes/tumblog/
+ * includes/theme-custom-post-types.php - moved to includes/tumblog/
+ * includes/theme-tumblog.php - moved to includes/tumblog/
+ * header.php - removed load of swfobject.js (loaded in theme-tumblog.php)
+
+2010.10.27 - version 3.0.2
+ * /functions/ - Framework update to 3.1.2
+ * includes/theme-options.php - Added/improved options.
+ * includes/theme-actions.php - Added optional parameters to biz slider query.
+ * includes/theme-functions.php - Added optional post meta to woo_post_meta()
+ * footer.php - fixed custom footer code
+ * /css/effects.css - moved css to style.css and removed file
+ * header.php - removed load of css/effects.css
+ * includes/widgets/widgets-woo-twitter.php - added basic styling
+ * style.css - added basic styling to .widget_woo_twitter (TWITTER WIDGET)
+ * thumb.php - updated to latest version with crop alignment
+
+2010.10.27 - version 3.0.1
+ * /includes/theme-options.php - added tumblog metaboxes to add post UI
+ 
+2010.10.22 - version 3.0
+ * /functions/ - Framework update to 3.1.0
+ * includes/theme-options.php - Added icons to option headings
+ * TUMBLOG FUNCTIONALITY
+ * archive.php - added tumblog output functions
+ * function.php - added tumblog functionality
+ * header.php - added tumblog audio player script
+ * index.php - added tumblog output functions
+ * search.php - added tumblog output functions
+ * single.php - added tumblog output functions
+ * style.css - added tumblog frontend styles
+ * /includes/theme-actions.php - modified output functions including tumblog functionality
+ * /includes/theme-options.php - added tumblog theme options
+ * /includes/theme-custom-post-types - added tumblog custom post type
+ * /includes/theme-tumblog.php - added tumblog output functions
+ * taxonomy-tumblog.php - added tumblog archive page
+ * /lang/canvas.po - updated lang file
+
+2010.10.21 - version 2.9.2
+ * template-biz.php - fixed sidebar position in code
+
+2010.10.20 - version 2.9.1
+ * includes/theme-options.php - fix bug with missing Custom Settings panel on pages (layout option)
+
+2010.10.20 - version 2.9
+ * /functions/ - FRAMEWORK UPDATE NEEDED -> 3.0.12
+ * includes/theme-options.php - added unit selection (px/em) to typography options
+ * includes/theme-actions.php - fixed options output to support em
+
+2010.10.19 - version 2.8.3
+ * includes/theme-options.php - fixed position of function to add options through child theme
+
+2010.10.19 - version 2.8.2
+ * includes/theme-options.php - fixed bug in options not showing up
+ * includes/sidebar-init - set a default number of footer sidebars if options not set
+ * includes/footer.php - set a default number of footer sidebars if options not set
+
+2010.10.18 - version 2.8.1 
+ * template-biz.php - added missing sidebar. Use sidebar manager to add unique biz sidebar.
+
+2010.10.13 - version 2.8
+ * includes/sidebar-init.php - Added option for 1-4 widget areas in the footer
+ * footer.php - Added option for 1-4 widget areas in the footer
+ * style.css - Added section 8.4
+ * includes/theme-options.php - Added option to Layout for selecting 1-4 footer widget areas
+ * CUSTOM POST TYPE: SLIDES (BUSINESS SLIDER)
+ * includes/theme-functions.php - added custom post type slide
+ * includes/images/slide.png - image for new custom post type
+ * includes/theme-options.php - fixed Custom Settings for new post type. Fixed options.
+ * includes/theme-actions.php - fixed query in business slider function
+
+2010.10.05 - version 2.7.1
+ * 404.php - add the word "are" in error message (line 24)
+
+2010.09.28 - version 2.7.0
+ * functions/*.* - Framework update 3.0.00 for Sidebar Manager
+ * includes/sidebar-init.php - Corrected faulty string input for functions params.
+ * includes/theme-actions.php - Corrected faulty string input for functions params.
+ * includes/theme-functions.php - Corrected faulty string input for functions params.
+ * includes/theme-options.php - Corrected faulty string input for functions params.
+ * sidebar.php, sidebar-alt.php, template-biz.php, footer.php - Converted WordPress functions into SBM functions.
+
+2010.09.14 - version 2.6.3
+ * style.css - removed position:relative from .post .title, .page .title (line 208)
+
+2010.08.30 - version 2.6.2
+ * page.php - added wp_link_pages()
+ * single.php - added wp_link_pages()
+
+2010.08.18 - version 2.6.1
+ * Added woo_loop_before to all template files
+ * includes/theme-actions.php - hooked Yoast Breadcrumbs on woo_loop_before
+ 
+2010.08.18 - version 2.6.0
+ * search.php - show the excerpt instead of the content. Added thumbnails to posts.
+ * includes/theme-actions.php - added function woo_breadcrumbs to add Yoast Breadcrumb support: http://yoast.com/wordpress/breadcrumbs/
+ * style.css - added .breadcrumb styling
+
+2010.08.11 - version 2.5.3
+ * includes/theme-functions.php - added edit link to woo_post_meta()
+ * single.php - fixed missing woo_post_meta()
+ * template-magazine.php - fixed missing woo_post_meta()
+
+2010.08.06 - version 2.5.2
+ * includes/theme-functions.php - Added woo_post_meta()
+ * index.php - changed post meta to use woo_post_meta()
+ * archive.php - changed post meta to use woo_post_meta()
+ * single.php - changed post meta to use woo_post_meta()
+ * search.php - changed post meta to use woo_post_meta()
+ * template-magazine.php - changed post meta to use woo_post_meta()
+ * template-blog.php - changed post meta to use woo_post_meta()
+
+2010.08.02 - version 2.5.1
+ * includes/theme-actions.php - Added loading of Google Fonts (add_action('wp_head', 'woo_google_webfonts');)
+ * /functions/ - Update to 2.8.09 - removed loading of Google Fonts from framework
+
+2010.08.01 - version 2.5
+ * /functions/ - Framework Update - Added support for Google Fonts. Use "Update Framework" in your dashboard or update this folder.
+
+2010.07.21 - version 2.4
+ * style.css - Added 1200px width (section #7)
+ * includes/theme-actions.php - Added 1200px width. Moved add_actions to top for better overview.
+ * includes/theme-options.php - Added 1200px width
+ 
+2010.07.17 - version 2.3.2
+ * includes/theme-functions.php - Fixed bug with latest posts tab not showing
+
+2010.07.15 - version 2.3.1
+ * includes/theme-widgets.php - Fixed bug with theme previewing
+
+2010.07.09 - version 2.3
+ * includes/theme-actions.php - Added function for single post author
+ * style.css - added section 3.4 Single Blog Author
+ * includes/theme-options.php - added option to disable Single Blog Author in Post Styling
+ * includes/theme-actions.php - made functions pluggable
+ * includes/theme-functions.php - made functions pluggable
+ * includes/theme-options.php - made functions pluggable
+ * includes/sidebar-init.php - made functions pluggable
+
+2010.06.25 - version 2.2.2
+ * style.css - Fixed Gravity forms styling bug
+
+2010.06.25 - version 2.2.1
+ * includes/template-magazine.php - Added workaround for pagination not working in WP 3.0 (when using as static homepage)
+ * includes/template-blog.php - Added workaround for pagination not working in WP 3.0 (when using as static homepage)
+
+2010.06.21 - version 2.2.0
+ * /includes/theme-actions.php - Added theme support for WordPress 3.0 Menu Management
+ * /includes/theme-functions.php - Added theme support for WordPress 3.0 Menu Management
+ * single.php - fixed comments closed bug (line 46)
+ * page.php - fixed comments closed bug (line 36)
+ 
+2010.06.09 - version 2.1.5
+ * style.css - Added styling for Gravity forms
+
+2010.05.17 - version 2.1.4
+ * /includes/theme-widgets.php - Modified to load files with alternative directory locations
+
+2010.04.28 - version 2.1.3
+ * search.php - sanitized search
+ 
+2010.04.26 - version 2.1.2
+ * includes/theme-actions.php - fix warning message about woo_embed on single posts
+
+2010.04.23 - version 2.1.1
+ * includes/theme-actions.php - only show embed div if embed code exists
+ * single.php - don't show single post image if post has embed code
+
+2010.04.13 - version 2.1
+ * includes/theme-actions.php - Added canvas_get_embed() function to show embed (custom field) on single posts
+ * style.css - .post .post-embed (line 221)
+ * footer.php - fixed IF (line 4-8) to show footer widgets again
+ * index.php - added exclude posts to query so slider posts are excluded if you use magazine template as front page.
+ 
+2010.04.07 - version 2.0.5
+ * includes/theme-actions.php - Fixed woo_nav function so it shows RSS in nav again.
+ * template-archives.php - Removed post-more
+ * template-sitemap.php - Removed post-more
+ * template-imagegallery.php - Removed post-more
+
+2010.04.07 - version 2.0.4
+ * /functions/* - MAJOR UPDATE - Framework V.2.7.0
+ * header.php - Added SEO tags, woo_title(); & woo_meta();
+ * functions.php - Changed layout for loading required files.
+ * includes/theme-actions.php - Fix JS error if using page template with slider disabled
+
+2010.04.05 - version 2.0.3
+ * includes/theme-actions.php - Fixed font styling in slider (line 369-385)
+
+2010.04.05 - version 2.0.2
+ * includes/theme-actions.php - Fix to slider javascript error: Load only on template pages
+
+2010.04.04 - version 2.0.1
+ * includes/widgets/woo-widget-embed.php - New widget embed/video 
+ * includes/theme-options.php - Custom field for embed code in posts
+
+2010.04.04 - version 2.0
+ * includes/* - Major update to files/structure
+ * functions.php - updated Framework init include
+ * /functions/* - Updated WooFramework 
+ * template-magazine.php - Magazine page template
+ * template-biz.php - Business page template 
+ * style.css - New section 8 templates/slider styling
+ * css/ie6.css - IE6 fix for slider
+ * footer.php - Added option to hide footer widgets for biz template (line 4)
+ * header.php - Moved navigation to function in includes/theme-actions.php (line 69-101)
+ * index.php - Moved post-more to function in includes/theme-actions.php (line 38-41)
+ * archive.php - Moved post-more to function in includes/theme-actions.php (line 60-63)
+ * search.php - Moved post-more to function in includes/theme-actions.php (line 37-40)
+ * template-blog.php - Moved post-more to function in includes/theme-actions.php (line 37-41)
+
+2010.03.02 - version 1.1
+ * functions.php - Bugfix for blank page error on activate
+ * includes/theme-widgets.php - Added blog author widget
+ * style.css - added section 4.2 Blog author widget
+
+2010.02.25 - version 1.0.5
+ * /functions/ - Updated WooFramework v2.3.8 to fix save bug with checkboxes
+
+2010.02.16 - version 1.0.4
+ * /functions/ - Updated WooFramework v2.3.7
+
+2010.02.15 - version 1.0.3
+ * functions.php - Added new line for Beta version of framework updater.
+ * Framework Update - Added fix for missing $woo_options field.
+
+2010.02.10 - version 1.0.2
+ * footer.php - improved widgetized footer code (line 4-23)
+ * header.php - corrected "Subcribe" to "Subscribe"
+ * lang/canvas.po - corrected "Subcribe" to "Subscribe"
+ * /styles/*.css - removed #logo .site-title, #logo .site-description
+	
+2010.02.10 - version 1.0.1
+ * header.php - removed class "title" from logo img (line 44)
+ * includes/theme-actions.php - margin:0 to .widget h3 if no bottom border
+
+2010.02.09 - version 1.0
+ * First release!
