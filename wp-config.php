@@ -16,22 +16,18 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', '546986_wp');
 
-/** MySQL database username */
-define('DB_USER', '546986_wp');
+if (isset($_SERVER["DATABASE_URL"])) {
+ $db = parse_url($_SERVER["DATABASE_URL"]);
+ define("DB_NAME", trim($db["path"],"/"));
+ define("DB_USER", $db["user"]);
+ define("DB_PASSWORD", $db["pass"]);
+ define("DB_HOST", $db["host"]);
+}
+else {
+ die("Your heroku DATABASE_URL does not appear to be correctly specified.");
+}
 
-/** MySQL database password */
-define('DB_PASSWORD', 'Zzangna18');
-
-/** MySQL hostname */
-define('DB_HOST', 'mysql50-73.wc2.dfw1.stabletransit.com');
-
-/** Database Charset to use in creating database tables. */
-define('DB_CHARSET', 'utf8');
-
-/** The Database Collate type. Don't change this if in doubt. */
-define('DB_COLLATE', '');
 
 /**#@+
  * Authentication Unique Keys and Salts.
@@ -42,16 +38,15 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'wqw[+j^>L|RP^F 5yb ..3B/j|7G@%g*W$XaQ`!{e;l><{RaL}uRve5_=:gg.+(-');
-define('SECURE_AUTH_KEY',  '3]h>9mQAi}H(,_#2<BS;?H[UUxJu>5Yrc4FOI{cv7 +1dw&oqD7Dz6/Y4MHs_0ZB');
-define('LOGGED_IN_KEY',    '!1@C3h(sB=m)iEo67?rb[ $0NAv=}7qM`)G[E8F7>|CVf5V}P-==D5 -w%7bu]7d');
-define('NONCE_KEY',        'CU%@+7^&gR]l~TPk54$o.`!+8KI#*UrRL{4u$@m_Ye|s[a&vO/^)(:bT8+7t7xO4');
-define('AUTH_SALT',        '=.<bAm}wgtYSIa-A)?8*RhM-V]+o.`9Y,-*LyBZ,SR%sT:Va!4S)qO`tFKgjlJ;n');
-define('SECURE_AUTH_SALT', 'RKh8qV&!+>3hdz#=0uhvOBx$| m++$f|dy6r]Uky0{O5#?{4@Xz,!lkdPs{viInO');
-define('LOGGED_IN_SALT',   'zQ% X|2q[&YD9XLk{;TUYlV73=x)VeKEgxoB^evkRF`Z+FXVq_<023Yk2g5&pY#|');
-define('NONCE_SALT',       '`}S[%F?/19GxIVxyl,{|8T7B1RB:o ;b=XR5`c%Rx* .,^e<L$Qt_zuarC?N@L~D');
-define('WP_HOME','http://kokev.in/blog');
-define('WP_SITEURL','http://kokev.in/blog');
+define('AUTH_KEY',         'ic>o4P5}J)(qc.)=Z1x^LAt5<vqp[ITYz~ZsQ7*r2#T33dtb|:(L+EX:51JV%VoE');
+define('SECURE_AUTH_KEY',  'AhMFhD Q7QntKh,=Rz%ND<!h)*+~8*SNWzl1Y/sd5|~JP$!R3G#|^+1E~]cwI7fy');
+define('LOGGED_IN_KEY',    '-!aC2=<%OmX.))--%NE-zaPVQPqz#O}O+WOaO}Jf>x2V7cAkYu@[3fnv)u?I-|o7');
+define('NONCE_KEY',        'lL(IUFsf;E82Pgh81E-Td`u+#=]E[{s!5jIX(pz1]W]9>WpI?g2woBuM8L6;f:Fl');
+define('AUTH_SALT',        '98J>FexQ]Xq1E4uf6<F1v,zZ=~UsVW+wouU}4@-@/4&)l~|#e-?^[rT,|*p|8#@^');
+define('SECURE_AUTH_SALT', ']* saRZ^h!)s0,};ka4J:x -|@?[FB8~;u*k+;s:S+I=(@k+,hi);w[X&7mf*}2u');
+define('LOGGED_IN_SALT',   ')B+_;7O5QuCJIDaJ ?peg^kuCd,Zb~!^[-PKyUgBys-+vqnvmtwzf4<sPCq?rq8>');
+define('NONCE_SALT',       '?XW/%yw1YyvfA>x h G|oozCa|&{GW(Fe?5@d7~0Jsa!5[J~_Ie]^-}tc{8swT-A');
+define('WP_SITEURL', 'http://' . $_SERVER['SERVER_NAME'] );
 
 /**#@-*/
 
@@ -66,12 +61,12 @@ $table_prefix  = 'wp_';
 /**
  * WordPress Localized Language, defaults to English.
  *
- * Change this to localize WordPress.  A corresponding MO file for the chosen
+ * Change this to localize WordPress. A corresponding MO file for the chosen
  * language must be installed to wp-content/languages. For example, install
- * de.mo to wp-content/languages and set WPLANG to 'de' to enable German
+ * de_DE.mo to wp-content/languages and set WPLANG to 'de_DE' to enable German
  * language support.
  */
-define ('WPLANG', '');
+define('WPLANG', '');
 
 /**
  * For developers: WordPress debugging mode.

